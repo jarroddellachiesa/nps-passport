@@ -49,7 +49,15 @@ h3{color:var(--gold);font-weight:normal;letter-spacing:.15em;font-size:15px;marg
 .dt{width:110px;font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#555}td em{display:block;font-size:13px;color:#555;margin-top:3px}
 .empty{text-align:center;color:#777;font-style:italic}
 .filt{display:flex;gap:8px}.filt input{flex:1;padding:10px;border-radius:8px;border:0;font-size:15px}.filt select{border-radius:8px;border:0;padding:0 8px}
-.cnt{font-size:13px;opacity:.7}.st{text-align:right;font-family:Helvetica,Arial,sans-serif;font-size:13px;white-space:nowrap}.st.y{color:#1d7a3a;font-weight:bold}.st.n{color:#999}
+html,body{overflow-x:hidden;max-width:100%}
+table{table-layout:fixed}td{overflow-wrap:anywhere;word-break:break-word}
+td span{white-space:normal}
+#ut td.st{width:92px;white-space:normal;text-align:right}
+.filt input{min-width:0;width:100%}.filt select{flex:0 0 auto;min-height:40px;max-width:40%}
+@media (max-width:400px){.filt{flex-wrap:wrap}.filt select{flex:1 1 100%;max-width:none}}
+.reg td.rt{width:90px}.dt{width:96px}
+section{box-sizing:border-box;width:100%}
+.cnt{font-size:13px;opacity:.7}.st{text-align:right;font-family:Helvetica,Arial,sans-serif;font-size:13px}.st.y{color:#1d7a3a;font-weight:bold}.st.n{color:#999}
 footer{text-align:center;font-size:12px;opacity:.45;padding-bottom:30px}
 @media (prefers-reduced-motion:reduce){.leaf{transition:none}}
 </style></head><body>

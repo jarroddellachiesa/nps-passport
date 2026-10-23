@@ -1,0 +1,3859 @@
+{
+ "source": "NPS API developer.nps.gov/api/v1/parks",
+ "regions": {
+  "north_atlantic": {
+   "name": "North Atlantic",
+   "color": "#c8102e",
+   "units": [
+    {
+     "code": "ACAD",
+     "name": "Acadia National Park",
+     "state": "ME",
+     "stamp_state": "ME",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "ADAM",
+     "name": "Adams National Historical Park",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "AFBG",
+     "name": "African Burial Ground National Monument",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "APPA",
+     "name": "Appalachian National Scenic Trail",
+     "state": "CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV",
+     "stamp_state": "CT",
+     "designation": "National Scenic Trail",
+     "visits": []
+    },
+    {
+     "code": "BLRV",
+     "name": "Blackstone River Valley National Historical Park",
+     "state": "RI,MA",
+     "stamp_state": "RI",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "BOAF",
+     "name": "Boston African American National Historic Site",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "BOHA",
+     "name": "Boston Harbor Islands National Recreation Area",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "BOST",
+     "name": "Boston National Historical Park",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "CACO",
+     "name": "Cape Cod National Seashore",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Seashore",
+     "visits": []
+    },
+    {
+     "code": "CACL",
+     "name": "Castle Clinton National Monument",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "COLT",
+     "name": "Coltsville National Historical Park",
+     "state": "CT",
+     "stamp_state": "CT",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "DEWA",
+     "name": "Delaware Water Gap National Recreation Area",
+     "state": "NJ,PA",
+     "stamp_state": "NJ",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "ELRO",
+     "name": "Eleanor Roosevelt National Historic Site",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "ELIS",
+     "name": "Ellis Island Part of Statue of Liberty National Monument",
+     "state": "NJ,NY",
+     "stamp_state": "NJ",
+     "designation": "Part of Statue of Liberty National Monument",
+     "visits": []
+    },
+    {
+     "code": "FEHA",
+     "name": "Federal Hall National Memorial",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "FIIS",
+     "name": "Fire Island National Seashore",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Seashore",
+     "visits": []
+    },
+    {
+     "code": "FOST",
+     "name": "Fort Stanwix National Monument",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "FRPE",
+     "name": "Frances Perkins National Monument",
+     "state": "ME",
+     "stamp_state": "ME",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "FRLA",
+     "name": "Frederick Law Olmsted National Historic Site",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "GATE",
+     "name": "Gateway National Recreation Area",
+     "state": "NY,NJ",
+     "stamp_state": "NY",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "GEGR",
+     "name": "General Grant National Memorial",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "GOIS",
+     "name": "Governors Island National Monument",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "GREG",
+     "name": "Great Egg Harbor River",
+     "state": "NJ",
+     "stamp_state": "NJ",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "HAGR",
+     "name": "Hamilton Grange National Memorial",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "HART",
+     "name": "Harriet Tubman National Historical Park",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "HOFR",
+     "name": "Home Of Franklin D Roosevelt National Historic Site",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "JOFI",
+     "name": "John Fitzgerald Kennedy National Historic Site",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "KAWW",
+     "name": "Katahdin Woods and Waters National Monument",
+     "state": "ME",
+     "stamp_state": "ME",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "LONG",
+     "name": "Longfellow House Washington's Headquarters National Historic Site",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "LOWE",
+     "name": "Lowell National Historical Park",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "LOEA",
+     "name": "Lower East Side Tenement Museum National Historic Site",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "MAAC",
+     "name": "Maine Acadian Culture",
+     "state": "ME",
+     "stamp_state": "ME",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "MABI",
+     "name": "Marsh - Billings - Rockefeller National Historical Park",
+     "state": "VT",
+     "stamp_state": "VT",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "MAVA",
+     "name": "Martin Van Buren National Historic Site",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "MIMA",
+     "name": "Minute Man National Historical Park",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "MORR",
+     "name": "Morristown National Historical Park",
+     "state": "NJ",
+     "stamp_state": "NJ",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "NPNH",
+     "name": "National Parks of New York Harbor",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "NEBE",
+     "name": "New Bedford Whaling National Historical Park",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "NEEN",
+     "name": "New England National Scenic Trail",
+     "state": "MA,CT",
+     "stamp_state": "MA",
+     "designation": "National Scenic Trail",
+     "visits": []
+    },
+    {
+     "code": "PINE",
+     "name": "New Jersey Pinelands National Reserve",
+     "state": "NJ",
+     "stamp_state": "NJ",
+     "designation": "National Reserve",
+     "visits": []
+    },
+    {
+     "code": "PAGR",
+     "name": "Paterson Great Falls National Historical Park",
+     "state": "NJ",
+     "stamp_state": "NJ",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "ROWI",
+     "name": "Roger Williams National Memorial",
+     "state": "RI",
+     "stamp_state": "RI",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "ROCA",
+     "name": "Roosevelt Campobello International Park",
+     "state": "ME",
+     "stamp_state": "ME",
+     "designation": "International Park",
+     "visits": []
+    },
+    {
+     "code": "SAHI",
+     "name": "Sagamore Hill National Historic Site",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "SACR",
+     "name": "Saint Croix Island International Historic Site",
+     "state": "ME",
+     "stamp_state": "ME",
+     "designation": "International Historic Site",
+     "visits": []
+    },
+    {
+     "code": "SAPA",
+     "name": "Saint Paul's Church National Historic Site",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "SAGA",
+     "name": "Saint-Gaudens National Historical Park",
+     "state": "NH",
+     "stamp_state": "NH",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "SAMA",
+     "name": "Salem Maritime National Historical Park",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "SARA",
+     "name": "Saratoga National Historical Park",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "SAIR",
+     "name": "Saugus Iron Works National Historic Site",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "SPAR",
+     "name": "Springfield Armory National Historic Site",
+     "state": "MA",
+     "stamp_state": "MA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "STLI",
+     "name": "Statue Of Liberty National Monument",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "STON",
+     "name": "Stonewall National Monument",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "THRB",
+     "name": "Theodore Roosevelt Birthplace National Historic Site",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "THRI",
+     "name": "Theodore Roosevelt Inaugural National Historic Site",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "THCO",
+     "name": "Thomas Cole National Historic Site",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "EDIS",
+     "name": "Thomas Edison National Historical Park",
+     "state": "NJ",
+     "stamp_state": "NJ",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "TOSY",
+     "name": "Touro Synagogue National Historic Site",
+     "state": "RI",
+     "stamp_state": "RI",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "UPDE",
+     "name": "Upper Delaware Scenic & Recreational River",
+     "state": "NY,PA",
+     "stamp_state": "NY",
+     "designation": "Scenic & Recreational River",
+     "visits": []
+    },
+    {
+     "code": "VAMA",
+     "name": "Vanderbilt Mansion National Historic Site",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "WARO",
+     "name": "Washington-Rochambeau Revolutionary Route National Historic Trail",
+     "state": "MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC",
+     "stamp_state": "MA",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "WEFA",
+     "name": "Weir Farm National Historical Park",
+     "state": "CT",
+     "stamp_state": "CT",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "WORI",
+     "name": "Women's Rights National Historical Park",
+     "state": "NY",
+     "stamp_state": "NY",
+     "designation": "National Historical Park",
+     "visits": []
+    }
+   ]
+  },
+  "mid_atlantic": {
+   "name": "Mid-Atlantic",
+   "color": "#e87722",
+   "units": [
+    {
+     "code": "ALPO",
+     "name": "Allegheny Portage Railroad National Historic Site",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "ANTI",
+     "name": "Antietam National Battlefield",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "APCO",
+     "name": "Appomattox Court House National Historical Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "ARHO",
+     "name": "Arlington House, The Robert E. Lee Memorial",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "ASIS",
+     "name": "Assateague Island National Seashore",
+     "state": "MD,VA",
+     "stamp_state": "MD",
+     "designation": "National Seashore",
+     "visits": []
+    },
+    {
+     "code": "BAWA",
+     "name": "Baltimore-Washington Parkway",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "Parkway",
+     "visits": []
+    },
+    {
+     "code": "BLUE",
+     "name": "Bluestone National Scenic River",
+     "state": "WV",
+     "stamp_state": "WV",
+     "designation": "National Scenic River",
+     "visits": []
+    },
+    {
+     "code": "BOWA",
+     "name": "Booker T. Washington National Monument",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CAME",
+     "name": "Cape Henry Memorial Part of Colonial National Historical Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "Part of Colonial National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "CAJO",
+     "name": "Captain John Smith Chesapeake National Historic Trail",
+     "state": "VA,MD,DE,DC,PA,NY",
+     "stamp_state": "VA",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "CIBS",
+     "name": "Carlisle Federal Indian Boarding School National Monument",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CATO",
+     "name": "Catoctin Mountain Park",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "CEBE",
+     "name": "Cedar Creek & Belle Grove National Historical Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "CLBA",
+     "name": "Clara Barton National Historic Site",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "COLO",
+     "name": "Colonial National Historical Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "EDAL",
+     "name": "Edgar Allan Poe National Historic Site",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "EISE",
+     "name": "Eisenhower National Historic Site",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FRST",
+     "name": "First State National Historical Park",
+     "state": "DE,PA",
+     "stamp_state": "DE",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "FLNI",
+     "name": "Flight 93 National Memorial",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "FOFO",
+     "name": "Fort Foote Park",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "FOMC",
+     "name": "Fort McHenry National Monument and Historic Shrine",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "National Monument and Historic Shrine",
+     "visits": []
+    },
+    {
+     "code": "FOMR",
+     "name": "Fort Monroe National Monument",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "FONE",
+     "name": "Fort Necessity National Battlefield",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "FOWA",
+     "name": "Fort Washington Park",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "FRSP",
+     "name": "Fredericksburg & Spotsylvania National Military Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Military Park",
+     "visits": []
+    },
+    {
+     "code": "FRHI",
+     "name": "Friendship Hill National Historic Site",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "GARI",
+     "name": "Gauley River National Recreation Area",
+     "state": "WV",
+     "stamp_state": "WV",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "GEWA",
+     "name": "George Washington Birthplace National Monument",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "GETT",
+     "name": "Gettysburg National Military Park",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Military Park",
+     "visits": []
+    },
+    {
+     "code": "GLEC",
+     "name": "Glen Echo Park",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "GLDE",
+     "name": "Gloria Dei Church National Historic Site",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "GRFA",
+     "name": "Great Falls Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "GRSP",
+     "name": "Green Springs",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "GREE",
+     "name": "Greenbelt Park",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "HAMP",
+     "name": "Hampton National Historic Site",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "HAHA",
+     "name": "Harmony Hall",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "HAFE",
+     "name": "Harpers Ferry National Historical Park",
+     "state": "WV,VA,MD",
+     "stamp_state": "WV",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "HATU",
+     "name": "Harriet Tubman Underground Railroad National Historical Park",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "JAME",
+     "name": "Historic Jamestowne Part of Colonial National Historical Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "Part of Colonial National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "HOFU",
+     "name": "Hopewell Furnace National Historic Site",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "INDE",
+     "name": "Independence National Historical Park",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "JOFL",
+     "name": "Johnstown Flood National Memorial",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "LODE",
+     "name": "Lower Delaware National Wild and Scenic River",
+     "state": "PA,NJ",
+     "stamp_state": "PA",
+     "designation": "National Wild and Scenic River",
+     "visits": []
+    },
+    {
+     "code": "MAWA",
+     "name": "Maggie L Walker National Historic Site",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "MANA",
+     "name": "Manassas National Battlefield Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Battlefield Park",
+     "visits": []
+    },
+    {
+     "code": "MONO",
+     "name": "Monocacy National Battlefield",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "NERI",
+     "name": "New River Gorge National Park & Preserve",
+     "state": "WV",
+     "stamp_state": "WV",
+     "designation": "National Park & Preserve",
+     "visits": []
+    },
+    {
+     "code": "OXHI",
+     "name": "Oxon Cove Park & Oxon Hill Farm",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "PETE",
+     "name": "Petersburg National Battlefield",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "PISC",
+     "name": "Piscataway Park",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "PRWI",
+     "name": "Prince William Forest Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "RICH",
+     "name": "Richmond National Battlefield Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Battlefield Park",
+     "visits": []
+    },
+    {
+     "code": "SHEN",
+     "name": "Shenandoah National Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "STSP",
+     "name": "Star-Spangled Banner National Historic Trail",
+     "state": "MD,VA,DC",
+     "stamp_state": "MD",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "STEA",
+     "name": "Steamtown National Historic Site",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "THKO",
+     "name": "Thaddeus Kosciuszko National Memorial",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "THST",
+     "name": "Thomas Stone National Historic Site",
+     "state": "MD",
+     "stamp_state": "MD",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "VAFO",
+     "name": "Valley Forge National Historical Park",
+     "state": "PA",
+     "stamp_state": "PA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "WOTR",
+     "name": "Wolf Trap National Park for the Performing Arts",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "YORK",
+     "name": "Yorktown Battlefield Part of Colonial National Historical Park",
+     "state": "VA",
+     "stamp_state": "VA",
+     "designation": "Part of Colonial National Historical Park",
+     "visits": []
+    }
+   ]
+  },
+  "national_capital": {
+   "name": "National Capital",
+   "color": "#7a2582",
+   "units": [
+    {
+     "code": "AFAM",
+     "name": "African American Civil War Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "ANAC",
+     "name": "Anacostia Park",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "BEPA",
+     "name": "Belmont-Paul Women's Equality National Monument",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CAHI",
+     "name": "Capitol Hill Parks",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "CAWO",
+     "name": "Carter G. Woodson Home National Historic Site",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "CHOH",
+     "name": "Chesapeake & Ohio Canal National Historical Park",
+     "state": "DC,MD,WV",
+     "stamp_state": "DC",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "CBPO",
+     "name": "Chesapeake Bay",
+     "state": "DC,DE,MD,NY,PA,VA,WV",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "CWDW",
+     "name": "Civil War Defenses of Washington",
+     "state": "DC,MD,VA",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "COGA",
+     "name": "Constitution Gardens",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "DSDS",
+     "name": "Desert Shield Desert Storm Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Memorial",
+     "visits": []
+    },
+    {
+     "code": "DDEM",
+     "name": "Dwight D. Eisenhower Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Memorial",
+     "visits": []
+    },
+    {
+     "code": "FOTH",
+     "name": "Ford's Theatre National Historic Site",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FODU",
+     "name": "Fort Dupont Park",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "FRDE",
+     "name": "Franklin Delano Roosevelt Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "FRDO",
+     "name": "Frederick Douglass National Historic Site",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "GWMP",
+     "name": "George Washington Memorial Parkway",
+     "state": "DC,MD,VA",
+     "stamp_state": "DC",
+     "designation": "Memorial Parkway",
+     "visits": []
+    },
+    {
+     "code": "KEAQ",
+     "name": "Kenilworth Park & Aquatic Gardens",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "KOWA",
+     "name": "Korean War Veterans Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "LYBA",
+     "name": "LBJ Memorial Grove on the Potomac",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "LINC",
+     "name": "Lincoln Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "MLKM",
+     "name": "Martin Luther King, Jr. Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "MAMC",
+     "name": "Mary McLeod Bethune Council House National Historic Site",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "NACE",
+     "name": "National Capital Parks-East",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "NAMA",
+     "name": "National Mall and Memorial Parks",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "PAAV",
+     "name": "Pennsylvania Avenue",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "POHE",
+     "name": "Potomac Heritage National Scenic Trail",
+     "state": "DC,MD,PA,VA",
+     "stamp_state": "DC",
+     "designation": "National Scenic Trail",
+     "visits": []
+    },
+    {
+     "code": "ROCR",
+     "name": "Rock Creek Park",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "WHHO",
+     "name": "The White House and President's Park",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "THIS",
+     "name": "Theodore Roosevelt Island",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "THJE",
+     "name": "Thomas Jefferson Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "VIVE",
+     "name": "Vietnam Veterans Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "WAMO",
+     "name": "Washington Monument",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "WWIM",
+     "name": "World War I Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "WWII",
+     "name": "World War II Memorial",
+     "state": "DC",
+     "stamp_state": "DC",
+     "designation": "Affiliated Area",
+     "visits": []
+    }
+   ]
+  },
+  "southeast": {
+   "name": "Southeast",
+   "color": "#00843d",
+   "units": [
+    {
+     "code": "ABLI",
+     "name": "Abraham Lincoln Birthplace National Historical Park",
+     "state": "KY",
+     "stamp_state": "KY",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "ANDE",
+     "name": "Andersonville National Historic Site",
+     "state": "GA",
+     "stamp_state": "GA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "ANJO",
+     "name": "Andrew Johnson National Historic Site",
+     "state": "TN",
+     "stamp_state": "TN",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "BICY",
+     "name": "Big Cypress National Preserve",
+     "state": "FL",
+     "stamp_state": "FL",
+     "designation": "National Preserve",
+     "visits": []
+    },
+    {
+     "code": "BISO",
+     "name": "Big South Fork National River & Recreation Area",
+     "state": "KY,TN",
+     "stamp_state": "KY",
+     "designation": "National River & Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "BICR",
+     "name": "Birmingham Civil Rights National Monument",
+     "state": "AL",
+     "stamp_state": "AL",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "BISC",
+     "name": "Biscayne National Park",
+     "state": "FL",
+     "stamp_state": "FL",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "BLRI",
+     "name": "Blue Ridge Parkway",
+     "state": "NC,VA",
+     "stamp_state": "NC",
+     "designation": "Parkway",
+     "visits": []
+    },
+    {
+     "code": "BRCR",
+     "name": "Brices Cross Roads National Battlefield Site",
+     "state": "MS",
+     "stamp_state": "MS",
+     "designation": "National Battlefield Site",
+     "visits": []
+    },
+    {
+     "code": "BUIS",
+     "name": "Buck Island Reef National Monument",
+     "state": "VI",
+     "stamp_state": "VI",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CANE",
+     "name": "Camp Nelson National Monument",
+     "state": "KY",
+     "stamp_state": "KY",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CANA",
+     "name": "Canaveral National Seashore",
+     "state": "FL",
+     "stamp_state": "FL",
+     "designation": "National Seashore",
+     "visits": []
+    },
+    {
+     "code": "CAHA",
+     "name": "Cape Hatteras National Seashore",
+     "state": "NC",
+     "stamp_state": "NC",
+     "designation": "National Seashore",
+     "visits": []
+    },
+    {
+     "code": "CALO",
+     "name": "Cape Lookout National Seashore",
+     "state": "NC",
+     "stamp_state": "NC",
+     "designation": "National Seashore",
+     "visits": []
+    },
+    {
+     "code": "CARL",
+     "name": "Carl Sandburg Home National Historic Site",
+     "state": "NC",
+     "stamp_state": "NC",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "CASA",
+     "name": "Castillo de San Marcos National Monument",
+     "state": "FL",
+     "stamp_state": "FL",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CHPI",
+     "name": "Charles Pinckney National Historic Site",
+     "state": "SC",
+     "stamp_state": "SC",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "CHAT",
+     "name": "Chattahoochee River National Recreation Area",
+     "state": "GA",
+     "stamp_state": "GA",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "CHCH",
+     "name": "Chickamauga & Chattanooga National Military Park",
+     "state": "GA,TN",
+     "stamp_state": "GA",
+     "designation": "National Military Park",
+     "visits": []
+    },
+    {
+     "code": "CHRI",
+     "name": "Christiansted National Historic Site",
+     "state": "VI",
+     "stamp_state": "VI",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "CONG",
+     "name": "Congaree National Park",
+     "state": "SC",
+     "stamp_state": "SC",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "COWP",
+     "name": "Cowpens National Battlefield",
+     "state": "SC",
+     "stamp_state": "SC",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "CUGA",
+     "name": "Cumberland Gap National Historical Park",
+     "state": "KY,TN,VA",
+     "stamp_state": "KY",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "CUIS",
+     "name": "Cumberland Island National Seashore",
+     "state": "GA",
+     "stamp_state": "GA",
+     "designation": "National Seashore",
+     "visits": []
+    },
+    {
+     "code": "DESO",
+     "name": "De Soto National Memorial",
+     "state": "FL",
+     "stamp_state": "FL",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "DRTO",
+     "name": "Dry Tortugas National Park",
+     "state": "FL",
+     "stamp_state": "FL",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "EVER",
+     "name": "Everglades National Park",
+     "state": "FL",
+     "stamp_state": "FL",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "FODO",
+     "name": "Fort Donelson National Battlefield",
+     "state": "KY,TN",
+     "stamp_state": "KY",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "FOFR",
+     "name": "Fort Frederica National Monument",
+     "state": "GA",
+     "stamp_state": "GA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "FOMA",
+     "name": "Fort Matanzas National Monument",
+     "state": "FL",
+     "stamp_state": "FL",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "FOPU",
+     "name": "Fort Pulaski National Monument",
+     "state": "GA",
+     "stamp_state": "GA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "FORA",
+     "name": "Fort Raleigh National Historic Site",
+     "state": "NC",
+     "stamp_state": "NC",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FOSU",
+     "name": "Fort Sumter and Fort Moultrie National Historical Park",
+     "state": "SC",
+     "stamp_state": "SC",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "FRRI",
+     "name": "Freedom Riders National Monument",
+     "state": "AL",
+     "stamp_state": "AL",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "GRSM",
+     "name": "Great Smoky Mountains National Park",
+     "state": "NC,TN",
+     "stamp_state": "NC",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "GUCO",
+     "name": "Guilford Courthouse National Military Park",
+     "state": "NC",
+     "stamp_state": "NC",
+     "designation": "National Military Park",
+     "visits": []
+    },
+    {
+     "code": "GUIS",
+     "name": "Gulf Islands National Seashore",
+     "state": "FL,MS",
+     "stamp_state": "FL",
+     "designation": "National Seashore",
+     "visits": []
+    },
+    {
+     "code": "HOBE",
+     "name": "Horseshoe Bend National Military Park",
+     "state": "AL",
+     "stamp_state": "AL",
+     "designation": "National Military Park",
+     "visits": []
+    },
+    {
+     "code": "JICA",
+     "name": "Jimmy Carter National Historical Park",
+     "state": "GA",
+     "stamp_state": "GA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "KEMO",
+     "name": "Kennesaw Mountain National Battlefield Park",
+     "state": "GA",
+     "stamp_state": "GA",
+     "designation": "National Battlefield Park",
+     "visits": []
+    },
+    {
+     "code": "KIMO",
+     "name": "Kings Mountain National Military Park",
+     "state": "SC",
+     "stamp_state": "SC",
+     "designation": "National Military Park",
+     "visits": []
+    },
+    {
+     "code": "LIRI",
+     "name": "Little River Canyon National Preserve",
+     "state": "AL",
+     "stamp_state": "AL",
+     "designation": "National Preserve",
+     "visits": []
+    },
+    {
+     "code": "MACA",
+     "name": "Mammoth Cave National Park",
+     "state": "KY",
+     "stamp_state": "KY",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "MALU",
+     "name": "Martin Luther King, Jr. National Historical Park",
+     "state": "GA",
+     "stamp_state": "GA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "MEMY",
+     "name": "Medgar and Myrlie Evers Home National Monument",
+     "state": "MS",
+     "stamp_state": "MS",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "MISP",
+     "name": "Mill Springs Battlefield National Monument",
+     "state": "KY",
+     "stamp_state": "KY",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "MOCR",
+     "name": "Moores Creek National Battlefield",
+     "state": "NC",
+     "stamp_state": "NC",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "NATC",
+     "name": "Natchez National Historical Park",
+     "state": "MS",
+     "stamp_state": "MS",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "NATT",
+     "name": "Natchez Trace National Scenic Trail",
+     "state": "AL,MS,TN",
+     "stamp_state": "AL",
+     "designation": "National Scenic Trail",
+     "visits": []
+    },
+    {
+     "code": "NATR",
+     "name": "Natchez Trace Parkway",
+     "state": "AL,MS,TN",
+     "stamp_state": "AL",
+     "designation": "Parkway",
+     "visits": []
+    },
+    {
+     "code": "NISI",
+     "name": "Ninety Six National Historic Site",
+     "state": "SC",
+     "stamp_state": "SC",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "OBED",
+     "name": "Obed Wild & Scenic River",
+     "state": "TN",
+     "stamp_state": "TN",
+     "designation": "Wild & Scenic River",
+     "visits": []
+    },
+    {
+     "code": "OCMU",
+     "name": "Ocmulgee Mounds National Historical Park",
+     "state": "GA",
+     "stamp_state": "GA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "OVVI",
+     "name": "Overmountain Victory National Historic Trail",
+     "state": "NC,SC,TN,VA",
+     "stamp_state": "NC",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "REER",
+     "name": "Reconstruction Era National Historical Park",
+     "state": "SC",
+     "stamp_state": "SC",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "RUCA",
+     "name": "Russell Cave National Monument",
+     "state": "AL",
+     "stamp_state": "AL",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "SARI",
+     "name": "Salt River Bay National Historical Park and Ecological Preserve",
+     "state": "VI",
+     "stamp_state": "VI",
+     "designation": "National Historical Park and Ecological Preserve",
+     "visits": []
+    },
+    {
+     "code": "SAJU",
+     "name": "San Juan National Historic Site",
+     "state": "PR",
+     "stamp_state": "PR",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "SEMO",
+     "name": "Selma To Montgomery National Historic Trail",
+     "state": "AL",
+     "stamp_state": "AL",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "SHIL",
+     "name": "Shiloh National Military Park",
+     "state": "TN,MS",
+     "stamp_state": "TN",
+     "designation": "National Military Park",
+     "visits": []
+    },
+    {
+     "code": "STRI",
+     "name": "Stones River National Battlefield",
+     "state": "TN",
+     "stamp_state": "TN",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "TIMU",
+     "name": "Timucuan Ecological & Historic Preserve",
+     "state": "FL",
+     "stamp_state": "FL",
+     "designation": "Ecological & Historic Preserve",
+     "visits": []
+    },
+    {
+     "code": "TRTE",
+     "name": "Trail Of Tears National Historic Trail",
+     "state": "AL,AR,GA,IL,KY,MO,NC,OK,TN",
+     "stamp_state": "AL",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "TUPE",
+     "name": "Tupelo National Battlefield",
+     "state": "MS",
+     "stamp_state": "MS",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "TUAI",
+     "name": "Tuskegee Airmen National Historic Site",
+     "state": "AL",
+     "stamp_state": "AL",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "TUIN",
+     "name": "Tuskegee Institute National Historic Site",
+     "state": "AL",
+     "stamp_state": "AL",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "VICK",
+     "name": "Vicksburg National Military Park",
+     "state": "MS,LA",
+     "stamp_state": "MS",
+     "designation": "National Military Park",
+     "visits": []
+    },
+    {
+     "code": "VICR",
+     "name": "Virgin Islands Coral Reef National Monument",
+     "state": "VI",
+     "stamp_state": "VI",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "VIIS",
+     "name": "Virgin Islands National Park",
+     "state": "VI",
+     "stamp_state": "VI",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "WRBR",
+     "name": "Wright Brothers National Memorial",
+     "state": "NC",
+     "stamp_state": "NC",
+     "designation": "National Memorial",
+     "visits": []
+    }
+   ]
+  },
+  "midwest": {
+   "name": "Midwest",
+   "color": "#0072ce",
+   "units": [
+    {
+     "code": "AGFO",
+     "name": "Agate Fossil Beds National Monument",
+     "state": "NE",
+     "stamp_state": "NE",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "APIS",
+     "name": "Apostle Islands National Lakeshore",
+     "state": "WI",
+     "stamp_state": "WI",
+     "designation": "National Lakeshore",
+     "visits": []
+    },
+    {
+     "code": "ARPO",
+     "name": "Arkansas Post National Memorial",
+     "state": "AR",
+     "stamp_state": "AR",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "BADL",
+     "name": "Badlands National Park",
+     "state": "SD",
+     "stamp_state": "SD",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "BRVB",
+     "name": "Brown v. Board of Education National Historical Park",
+     "state": "KS",
+     "stamp_state": "KS",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "BUFF",
+     "name": "Buffalo National River",
+     "state": "AR",
+     "stamp_state": "AR",
+     "designation": "National River",
+     "visits": []
+    },
+    {
+     "code": "BUOV",
+     "name": "Butterfield Overland National Historic Trail",
+     "state": "MO,AR,OK,TX,NM,AZ,CA",
+     "stamp_state": "MO",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "CHYO",
+     "name": "Charles Young Buffalo Soldiers National Monument",
+     "state": "OH",
+     "stamp_state": "OH",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CUVA",
+     "name": "Cuyahoga Valley National Park",
+     "state": "OH",
+     "stamp_state": "OH",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "DAAV",
+     "name": "Dayton Aviation Heritage National Historical Park",
+     "state": "OH",
+     "stamp_state": "OH",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "EFMO",
+     "name": "Effigy Mounds National Monument",
+     "state": "IA",
+     "stamp_state": "IA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "TILL",
+     "name": "Emmett Till and Mamie Till-Mobley National Monument",
+     "state": "IL,MS",
+     "stamp_state": "IL",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "FILA",
+     "name": "First Ladies National Historic Site",
+     "state": "OH",
+     "stamp_state": "OH",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FOLS",
+     "name": "Fort Larned National Historic Site",
+     "state": "KS",
+     "stamp_state": "KS",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FOSC",
+     "name": "Fort Scott National Historic Site",
+     "state": "KS",
+     "stamp_state": "KS",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FOSM",
+     "name": "Fort Smith National Historic Site",
+     "state": "AR,OK",
+     "stamp_state": "AR",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "JEFF",
+     "name": "Gateway Arch National Park",
+     "state": "MO",
+     "stamp_state": "MO",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "GERO",
+     "name": "George Rogers Clark National Historical Park",
+     "state": "IN",
+     "stamp_state": "IN",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "GWCA",
+     "name": "George Washington Carver National Monument",
+     "state": "MO",
+     "stamp_state": "MO",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "GRPO",
+     "name": "Grand Portage National Monument",
+     "state": "MN",
+     "stamp_state": "MN",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "HSTR",
+     "name": "Harry S Truman National Historic Site",
+     "state": "MO",
+     "stamp_state": "MO",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "HEHO",
+     "name": "Herbert Hoover National Historic Site",
+     "state": "IA",
+     "stamp_state": "IA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "HOME",
+     "name": "Homestead National Historical Park",
+     "state": "NE",
+     "stamp_state": "NE",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "HOCU",
+     "name": "Hopewell Culture National Historical Park",
+     "state": "OH",
+     "stamp_state": "OH",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "HOSP",
+     "name": "Hot Springs National Park",
+     "state": "AR",
+     "stamp_state": "AR",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "IATR",
+     "name": "Ice Age National Scenic Trail",
+     "state": "WI",
+     "stamp_state": "WI",
+     "designation": "National Scenic Trail",
+     "visits": []
+    },
+    {
+     "code": "INDU",
+     "name": "Indiana Dunes National Park",
+     "state": "IN",
+     "stamp_state": "IN",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "ISRO",
+     "name": "Isle Royale National Park",
+     "state": "MI",
+     "stamp_state": "MI",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "JAGA",
+     "name": "James A Garfield National Historic Site",
+     "state": "OH",
+     "stamp_state": "OH",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "JECA",
+     "name": "Jewel Cave National Monument",
+     "state": "SD",
+     "stamp_state": "SD",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "KEWE",
+     "name": "Keweenaw National Historical Park",
+     "state": "MI",
+     "stamp_state": "MI",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "KNRI",
+     "name": "Knife River Indian Villages National Historic Site",
+     "state": "ND",
+     "stamp_state": "ND",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "LECL",
+     "name": "Lewis & Clark National Historic Trail",
+     "state": "IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV",
+     "stamp_state": "IA",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "LIBO",
+     "name": "Lincoln Boyhood National Memorial",
+     "state": "IN",
+     "stamp_state": "IN",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "LIHO",
+     "name": "Lincoln Home National Historic Site",
+     "state": "IL",
+     "stamp_state": "IL",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "CHSC",
+     "name": "Little Rock Central High School National Historic Site",
+     "state": "AR",
+     "stamp_state": "AR",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "MIMI",
+     "name": "Minuteman Missile National Historic Site",
+     "state": "SD",
+     "stamp_state": "SD",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "MISS",
+     "name": "Mississippi National River & Recreation Area",
+     "state": "MN",
+     "stamp_state": "MN",
+     "designation": "National River & Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "MNRR",
+     "name": "Missouri National Recreational River",
+     "state": "SD,NE",
+     "stamp_state": "SD",
+     "designation": "National Recreational River",
+     "visits": []
+    },
+    {
+     "code": "MOPI",
+     "name": "Mormon Pioneer National Historic Trail",
+     "state": "IL,IA,NE,UT,WY",
+     "stamp_state": "IL",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "MORU",
+     "name": "Mount Rushmore National Memorial",
+     "state": "SD",
+     "stamp_state": "SD",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "NEPH",
+     "name": "New Philadelphia National Historic Site",
+     "state": "IL",
+     "stamp_state": "IL",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "NICO",
+     "name": "Nicodemus National Historic Site",
+     "state": "KS",
+     "stamp_state": "KS",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "NIOB",
+     "name": "Niobrara National Scenic River",
+     "state": "NE",
+     "stamp_state": "NE",
+     "designation": "National Scenic River",
+     "visits": []
+    },
+    {
+     "code": "NOCO",
+     "name": "North Country National Scenic Trail",
+     "state": "MI,MN,ND,NY,OH,PA,VT,WI",
+     "stamp_state": "MI",
+     "designation": "National Scenic Trail",
+     "visits": []
+    },
+    {
+     "code": "OZAR",
+     "name": "Ozark National Scenic Riverways",
+     "state": "MO",
+     "stamp_state": "MO",
+     "designation": "National Scenic Riverways",
+     "visits": []
+    },
+    {
+     "code": "PERI",
+     "name": "Pea Ridge National Military Park",
+     "state": "AR",
+     "stamp_state": "AR",
+     "designation": "National Military Park",
+     "visits": []
+    },
+    {
+     "code": "PEVI",
+     "name": "Perry's Victory & International Peace Memorial",
+     "state": "OH",
+     "stamp_state": "OH",
+     "designation": "Memorial",
+     "visits": []
+    },
+    {
+     "code": "PIRO",
+     "name": "Pictured Rocks National Lakeshore",
+     "state": "MI",
+     "stamp_state": "MI",
+     "designation": "National Lakeshore",
+     "visits": []
+    },
+    {
+     "code": "PIPE",
+     "name": "Pipestone National Monument",
+     "state": "MN",
+     "stamp_state": "MN",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "WICL",
+     "name": "President William Jefferson Clinton Birthplace Home National Historic Site",
+     "state": "AR",
+     "stamp_state": "AR",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "PULL",
+     "name": "Pullman National Historical Park",
+     "state": "IL",
+     "stamp_state": "IL",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "RIRA",
+     "name": "River Raisin National Battlefield Park",
+     "state": "MI",
+     "stamp_state": "MI",
+     "designation": "National Battlefield Park",
+     "visits": []
+    },
+    {
+     "code": "SACN",
+     "name": "Saint Croix National Scenic Riverway",
+     "state": "WI,MN",
+     "stamp_state": "WI",
+     "designation": "National Scenic Riverway",
+     "visits": []
+    },
+    {
+     "code": "SCBL",
+     "name": "Scotts Bluff National Monument",
+     "state": "NE",
+     "stamp_state": "NE",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "SLBE",
+     "name": "Sleeping Bear Dunes National Lakeshore",
+     "state": "MI",
+     "stamp_state": "MI",
+     "designation": "National Lakeshore",
+     "visits": []
+    },
+    {
+     "code": "SPRA",
+     "name": "Springfield 1908 Race Riot National Monument",
+     "state": "IL",
+     "stamp_state": "IL",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "STGE",
+     "name": "Ste. Geneviève National Historical Park",
+     "state": "MO",
+     "stamp_state": "MO",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "TAPR",
+     "name": "Tallgrass Prairie National Preserve",
+     "state": "KS",
+     "stamp_state": "KS",
+     "designation": "National Preserve",
+     "visits": []
+    },
+    {
+     "code": "THRO",
+     "name": "Theodore Roosevelt National Park",
+     "state": "ND",
+     "stamp_state": "ND",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "ULSG",
+     "name": "Ulysses S Grant National Historic Site",
+     "state": "MO",
+     "stamp_state": "MO",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "VOYA",
+     "name": "Voyageurs National Park",
+     "state": "MN",
+     "stamp_state": "MN",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "WIHO",
+     "name": "William Howard Taft National Historic Site",
+     "state": "OH",
+     "stamp_state": "OH",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "WICR",
+     "name": "Wilson's Creek National Battlefield",
+     "state": "MO",
+     "stamp_state": "MO",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "WICA",
+     "name": "Wind Cave National Park",
+     "state": "SD",
+     "stamp_state": "SD",
+     "designation": "National Park",
+     "visits": []
+    }
+   ]
+  },
+  "southwest": {
+   "name": "Southwest",
+   "color": "#b5651d",
+   "units": [
+    {
+     "code": "ALFL",
+     "name": "Alibates Flint Quarries National Monument",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "AMIS",
+     "name": "Amistad National Recreation Area",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "AZRU",
+     "name": "Aztec Ruins National Monument",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "BAND",
+     "name": "Bandelier National Monument",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "BIBE",
+     "name": "Big Bend National Park",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "BITH",
+     "name": "Big Thicket National Preserve",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Preserve",
+     "visits": []
+    },
+    {
+     "code": "BLSC",
+     "name": "Blackwell School National Historic Site",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "CARI",
+     "name": "Cane River Creole National Historical Park",
+     "state": "LA",
+     "stamp_state": "LA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "CAVO",
+     "name": "Capulin Volcano National Monument",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CAVE",
+     "name": "Carlsbad Caverns National Park",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "CHCU",
+     "name": "Chaco Culture National Historical Park",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "CHAM",
+     "name": "Chamizal National Memorial",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "CHIC",
+     "name": "Chickasaw National Recreation Area",
+     "state": "OK",
+     "stamp_state": "OK",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "ELCA",
+     "name": "El Camino Real de Tierra Adentro National Historic Trail",
+     "state": "NM,TX",
+     "stamp_state": "NM",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "ELTE",
+     "name": "El Camino Real de los Tejas National Historic Trail",
+     "state": "TX,LA",
+     "stamp_state": "TX",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "ELMA",
+     "name": "El Malpais National Monument",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "ELMO",
+     "name": "El Morro National Monument",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "FODA",
+     "name": "Fort Davis National Historic Site",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FOUN",
+     "name": "Fort Union National Monument",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "GICL",
+     "name": "Gila Cliff Dwellings National Monument",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "GUMO",
+     "name": "Guadalupe Mountains National Park",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "JELA",
+     "name": "Jean Lafitte National Historical Park and Preserve",
+     "state": "LA",
+     "stamp_state": "LA",
+     "designation": "National Historical Park and Preserve",
+     "visits": []
+    },
+    {
+     "code": "LAMR",
+     "name": "Lake Meredith National Recreation Area",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "LYJO",
+     "name": "Lyndon B Johnson National Historical Park",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "MAPR",
+     "name": "Manhattan Project National Historical Park",
+     "state": "NM,WA,TN",
+     "stamp_state": "NM",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "JAZZ",
+     "name": "New Orleans Jazz National Historical Park",
+     "state": "LA",
+     "stamp_state": "LA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "OKCI",
+     "name": "Oklahoma City National Memorial",
+     "state": "OK",
+     "stamp_state": "OK",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "PAIS",
+     "name": "Padre Island National Seashore",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Seashore",
+     "visits": []
+    },
+    {
+     "code": "PAAL",
+     "name": "Palo Alto Battlefield National Historical Park",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "PECO",
+     "name": "Pecos National Historical Park",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "PETR",
+     "name": "Petroglyph National Monument",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "POPO",
+     "name": "Poverty Point National Monument",
+     "state": "LA",
+     "stamp_state": "LA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "RIGR",
+     "name": "Rio Grande Wild & Scenic River",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "Wild & Scenic River",
+     "visits": []
+    },
+    {
+     "code": "SAPU",
+     "name": "Salinas Pueblo Missions National Monument",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "SAAN",
+     "name": "San Antonio Missions National Historical Park",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "VALL",
+     "name": "Valles Caldera National Preserve",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Preserve",
+     "visits": []
+    },
+    {
+     "code": "WACO",
+     "name": "Waco Mammoth National Monument",
+     "state": "TX",
+     "stamp_state": "TX",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "WABA",
+     "name": "Washita Battlefield National Historic Site",
+     "state": "OK",
+     "stamp_state": "OK",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "WHSA",
+     "name": "White Sands National Park",
+     "state": "NM",
+     "stamp_state": "NM",
+     "designation": "National Park",
+     "visits": []
+    }
+   ]
+  },
+  "rocky_mountain": {
+   "name": "Rocky Mountain",
+   "color": "#d4a017",
+   "units": [
+    {
+     "code": "AMCH",
+     "name": "Amache National Historic Site",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "ARCH",
+     "name": "Arches National Park",
+     "state": "UT",
+     "stamp_state": "UT",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "BEOL",
+     "name": "Bent's Old Fort National Historic Site",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "BIHO",
+     "name": "Big Hole National Battlefield",
+     "state": "MT",
+     "stamp_state": "MT",
+     "designation": "National Battlefield",
+     "visits": []
+    },
+    {
+     "code": "BICA",
+     "name": "Bighorn Canyon National Recreation Area",
+     "state": "MT,WY",
+     "stamp_state": "MT",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "BLCA",
+     "name": "Black Canyon Of The Gunnison National Park",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "BRCA",
+     "name": "Bryce Canyon National Park",
+     "state": "UT",
+     "stamp_state": "UT",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "CANY",
+     "name": "Canyonlands National Park",
+     "state": "UT",
+     "stamp_state": "UT",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "CARE",
+     "name": "Capitol Reef National Park",
+     "state": "UT",
+     "stamp_state": "UT",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "CEBR",
+     "name": "Cedar Breaks National Monument",
+     "state": "UT",
+     "stamp_state": "UT",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "COLM",
+     "name": "Colorado National Monument",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CURE",
+     "name": "Curecanti National Recreation Area",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "DETO",
+     "name": "Devils Tower National Monument",
+     "state": "WY",
+     "stamp_state": "WY",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "DINO",
+     "name": "Dinosaur National Monument",
+     "state": "CO,UT",
+     "stamp_state": "CO",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "FLFO",
+     "name": "Florissant Fossil Beds National Monument",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "FOLA",
+     "name": "Fort Laramie National Historic Site",
+     "state": "WY",
+     "stamp_state": "WY",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FOUS",
+     "name": "Fort Union Trading Post National Historic Site",
+     "state": "MT,ND",
+     "stamp_state": "MT",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FOBU",
+     "name": "Fossil Butte National Monument",
+     "state": "WY",
+     "stamp_state": "WY",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "GLAC",
+     "name": "Glacier National Park",
+     "state": "MT",
+     "stamp_state": "MT",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "GOSP",
+     "name": "Golden Spike National Historical Park",
+     "state": "UT",
+     "stamp_state": "UT",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "GRTE",
+     "name": "Grand Teton National Park",
+     "state": "WY",
+     "stamp_state": "WY",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "GRKO",
+     "name": "Grant-Kohrs Ranch National Historic Site",
+     "state": "MT",
+     "stamp_state": "MT",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "GRSA",
+     "name": "Great Sand Dunes National Park & Preserve",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Park & Preserve",
+     "visits": []
+    },
+    {
+     "code": "HOVE",
+     "name": "Hovenweep National Monument",
+     "state": "CO,UT",
+     "stamp_state": "CO",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "LIBI",
+     "name": "Little Bighorn Battlefield National Monument",
+     "state": "MT",
+     "stamp_state": "MT",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "MEVE",
+     "name": "Mesa Verde National Park",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "NABR",
+     "name": "Natural Bridges National Monument",
+     "state": "UT",
+     "stamp_state": "UT",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "RABR",
+     "name": "Rainbow Bridge National Monument",
+     "state": "UT",
+     "stamp_state": "UT",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "ROMO",
+     "name": "Rocky Mountain National Park",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "SAND",
+     "name": "Sand Creek Massacre National Historic Site",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "SAFE",
+     "name": "Santa Fe National Historic Trail",
+     "state": "CO,KS,MO,NM,OK",
+     "stamp_state": "CO",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "TICA",
+     "name": "Timpanogos Cave National Monument",
+     "state": "UT",
+     "stamp_state": "UT",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "YELL",
+     "name": "Yellowstone National Park",
+     "state": "ID,MT,WY",
+     "stamp_state": "WY",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "YUHO",
+     "name": "Yucca House National Monument",
+     "state": "CO",
+     "stamp_state": "CO",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "ZION",
+     "name": "Zion National Park",
+     "state": "UT",
+     "stamp_state": "UT",
+     "designation": "National Park",
+     "visits": []
+    }
+   ]
+  },
+  "western": {
+   "name": "Western",
+   "color": "#2a9d8f",
+   "units": [
+    {
+     "code": "ALKA",
+     "name": "Ala Kahakai National Historic Trail",
+     "state": "HI",
+     "stamp_state": "HI",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "ALCA",
+     "name": "Alcatraz Island",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "AMME",
+     "name": "American Memorial Park",
+     "state": "MP",
+     "stamp_state": "MP",
+     "designation": "Park",
+     "visits": []
+    },
+    {
+     "code": "CABR",
+     "name": "Cabrillo National Monument",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CALI",
+     "name": "California National Historic Trail",
+     "state": "CA,CO,ID,KS,MO,NE,NV,OR,UT,WY",
+     "stamp_state": "CA",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "CACH",
+     "name": "Canyon de Chelly National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CAGR",
+     "name": "Casa Grande Ruins National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CAMO",
+     "name": "Castle Mountains National Monument",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CHIS",
+     "name": "Channel Islands National Park",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "CHIR",
+     "name": "Chiricahua National Park",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "CORO",
+     "name": "Coronado National Memorial",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "CECH",
+     "name": "César E. Chávez National Monument",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "DEVA",
+     "name": "Death Valley National Park",
+     "state": "CA,NV",
+     "stamp_state": "CA",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "DEPO",
+     "name": "Devils Postpile National Monument",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "EUON",
+     "name": "Eugene O'Neill National Historic Site",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FOBO",
+     "name": "Fort Bowie National Historic Site",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "FOPO",
+     "name": "Fort Point National Historic Site",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "GLCA",
+     "name": "Glen Canyon National Recreation Area",
+     "state": "AZ,UT",
+     "stamp_state": "AZ",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "GOGA",
+     "name": "Golden Gate National Recreation Area",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "GRCA",
+     "name": "Grand Canyon National Park",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "PARA",
+     "name": "Grand Canyon-Parashant National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "GRBA",
+     "name": "Great Basin National Park",
+     "state": "NV",
+     "stamp_state": "NV",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "HALE",
+     "name": "Haleakalā National Park",
+     "state": "HI",
+     "stamp_state": "HI",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "HAVO",
+     "name": "Hawaiʻi Volcanoes National Park",
+     "state": "HI",
+     "stamp_state": "HI",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "HONO",
+     "name": "Honouliuli National Historic Site",
+     "state": "HI",
+     "stamp_state": "HI",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "HUTR",
+     "name": "Hubbell Trading Post National Historic Site",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "JOMU",
+     "name": "John Muir National Historic Site",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "JOTR",
+     "name": "Joshua Tree National Park",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "JUBA",
+     "name": "Juan Bautista de Anza National Historic Trail",
+     "state": "AZ,CA",
+     "stamp_state": "AZ",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "KALA",
+     "name": "Kalaupapa National Historical Park",
+     "state": "HI",
+     "stamp_state": "HI",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "KAHO",
+     "name": "Kaloko-Honokōhau National Historical Park",
+     "state": "HI",
+     "stamp_state": "HI",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "LAKE",
+     "name": "Lake Mead National Recreation Area",
+     "state": "AZ,NV",
+     "stamp_state": "AZ",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "LAVO",
+     "name": "Lassen Volcanic National Park",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "LABE",
+     "name": "Lava Beds National Monument",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "MANZ",
+     "name": "Manzanar National Historic Site",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "MOJA",
+     "name": "Mojave National Preserve",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Preserve",
+     "visits": []
+    },
+    {
+     "code": "MOCA",
+     "name": "Montezuma Castle National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "MUWO",
+     "name": "Muir Woods National Monument",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "NPSA",
+     "name": "National Park of American Samoa",
+     "state": "AS",
+     "stamp_state": "AS",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "NAVA",
+     "name": "Navajo National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "OLSP",
+     "name": "Old Spanish National Historic Trail",
+     "state": "AZ,CA,CO,NV,NM,UT",
+     "stamp_state": "AZ",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "ORPI",
+     "name": "Organ Pipe Cactus National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "VALR",
+     "name": "Pearl Harbor National Memorial",
+     "state": "HI",
+     "stamp_state": "HI",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "PEFO",
+     "name": "Petrified Forest National Park",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "PINN",
+     "name": "Pinnacles National Park",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "PISP",
+     "name": "Pipe Spring National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "PORE",
+     "name": "Point Reyes National Seashore",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Seashore",
+     "visits": []
+    },
+    {
+     "code": "POEX",
+     "name": "Pony Express National Historic Trail",
+     "state": "CA,CO,KS,MO,NE,NV,UT,WY",
+     "stamp_state": "CA",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "POCH",
+     "name": "Port Chicago Naval Magazine National Memorial",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Memorial",
+     "visits": []
+    },
+    {
+     "code": "PRSF",
+     "name": "Presidio of San Francisco",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "PUHO",
+     "name": "Puʻuhonua o Hōnaunau National Historical Park",
+     "state": "HI",
+     "stamp_state": "HI",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "PUHE",
+     "name": "Puʻukoholā Heiau National Historic Site",
+     "state": "HI",
+     "stamp_state": "HI",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "REDW",
+     "name": "Redwood National and State Parks",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National and State Parks",
+     "visits": []
+    },
+    {
+     "code": "RORI",
+     "name": "Rosie the Riveter WWII Home Front National Historical Park",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "SAGU",
+     "name": "Saguaro National Park",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "SAFR",
+     "name": "San Francisco Maritime National Historical Park",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "SAMO",
+     "name": "Santa Monica Mountains National Recreation Area",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "SEKI",
+     "name": "Sequoia & Kings Canyon National Parks",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Parks",
+     "visits": []
+    },
+    {
+     "code": "SUCR",
+     "name": "Sunset Crater Volcano National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "TONT",
+     "name": "Tonto National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "TULE",
+     "name": "Tule Lake National Monument",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "TUSK",
+     "name": "Tule Springs Fossil Beds National Monument",
+     "state": "NV",
+     "stamp_state": "NV",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "TUMA",
+     "name": "Tumacácori National Historical Park",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "TUZI",
+     "name": "Tuzigoot National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "WACA",
+     "name": "Walnut Canyon National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "WAPA",
+     "name": "War In The Pacific National Historical Park",
+     "state": "GU",
+     "stamp_state": "GU",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "WHIS",
+     "name": "Whiskeytown National Recreation Area",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "WUPA",
+     "name": "Wupatki National Monument",
+     "state": "AZ",
+     "stamp_state": "AZ",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "YOSE",
+     "name": "Yosemite National Park",
+     "state": "CA",
+     "stamp_state": "CA",
+     "designation": "National Park",
+     "visits": []
+    }
+   ]
+  },
+  "pacific_northwest_alaska": {
+   "name": "Pacific Northwest & Alaska",
+   "color": "#1b4d89",
+   "units": [
+    {
+     "code": "ALAG",
+     "name": "Alagnak Wild River",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "Wild River",
+     "visits": []
+    },
+    {
+     "code": "ANCH",
+     "name": "Alaska Public Lands",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "ALEU",
+     "name": "Aleutian Islands World War II National Historic Area",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Historic Area",
+     "visits": []
+    },
+    {
+     "code": "ANIA",
+     "name": "Aniakchak National Monument & Preserve",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Monument & Preserve",
+     "visits": []
+    },
+    {
+     "code": "BELA",
+     "name": "Bering Land Bridge National Preserve",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Preserve",
+     "visits": []
+    },
+    {
+     "code": "CAKR",
+     "name": "Cape Krusenstern National Monument",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "CIRO",
+     "name": "City Of Rocks National Reserve",
+     "state": "ID",
+     "stamp_state": "ID",
+     "designation": "National Reserve",
+     "visits": []
+    },
+    {
+     "code": "CRLA",
+     "name": "Crater Lake National Park",
+     "state": "OR",
+     "stamp_state": "OR",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "CRMO",
+     "name": "Craters Of The Moon National Monument & Preserve",
+     "state": "ID",
+     "stamp_state": "ID",
+     "designation": "National Monument & Preserve",
+     "visits": []
+    },
+    {
+     "code": "DENA",
+     "name": "Denali National Park & Preserve",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Park & Preserve",
+     "visits": []
+    },
+    {
+     "code": "EBLA",
+     "name": "Ebey's Landing National Historical Reserve",
+     "state": "WA",
+     "stamp_state": "WA",
+     "designation": "National Historical Reserve",
+     "visits": []
+    },
+    {
+     "code": "FOVA",
+     "name": "Fort Vancouver National Historic Site",
+     "state": "OR,WA",
+     "stamp_state": "OR",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "GAAR",
+     "name": "Gates Of The Arctic National Park & Preserve",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Park & Preserve",
+     "visits": []
+    },
+    {
+     "code": "GLBA",
+     "name": "Glacier Bay National Park & Preserve",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Park & Preserve",
+     "visits": []
+    },
+    {
+     "code": "HAFO",
+     "name": "Hagerman Fossil Beds National Monument",
+     "state": "ID",
+     "stamp_state": "ID",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "IAFL",
+     "name": "Ice Age Floods National Geologic Trail",
+     "state": "WA,OR,ID,MT",
+     "stamp_state": "WA",
+     "designation": "National Geologic Trail",
+     "visits": []
+    },
+    {
+     "code": "INUP",
+     "name": "Iñupiat Heritage Center",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "JODA",
+     "name": "John Day Fossil Beds National Monument",
+     "state": "OR",
+     "stamp_state": "OR",
+     "designation": "National Monument",
+     "visits": []
+    },
+    {
+     "code": "KATM",
+     "name": "Katmai National Park & Preserve",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Park & Preserve",
+     "visits": []
+    },
+    {
+     "code": "KEFJ",
+     "name": "Kenai Fjords National Park",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "KLSE",
+     "name": "Klondike Gold Rush - Seattle Unit National Historical Park",
+     "state": "WA",
+     "stamp_state": "WA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "KLGO",
+     "name": "Klondike Gold Rush National Historical Park",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "KOVA",
+     "name": "Kobuk Valley National Park",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "LACL",
+     "name": "Lake Clark National Park & Preserve",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Park & Preserve",
+     "visits": []
+    },
+    {
+     "code": "LARO",
+     "name": "Lake Roosevelt National Recreation Area",
+     "state": "WA",
+     "stamp_state": "WA",
+     "designation": "National Recreation Area",
+     "visits": []
+    },
+    {
+     "code": "LEWI",
+     "name": "Lewis and Clark National Historical Park",
+     "state": "OR,WA",
+     "stamp_state": "OR",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "MIIN",
+     "name": "Minidoka National Historic Site",
+     "state": "ID,WA",
+     "stamp_state": "ID",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "MORA",
+     "name": "Mount Rainier National Park",
+     "state": "WA",
+     "stamp_state": "WA",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "NEPE",
+     "name": "Nez Perce National Historical Park",
+     "state": "ID,MT,OR,WA",
+     "stamp_state": "ID",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "NOAT",
+     "name": "Noatak National Preserve",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Preserve",
+     "visits": []
+    },
+    {
+     "code": "NOCA",
+     "name": "North Cascades National Park",
+     "state": "WA",
+     "stamp_state": "WA",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "OLYM",
+     "name": "Olympic National Park",
+     "state": "WA",
+     "stamp_state": "WA",
+     "designation": "National Park",
+     "visits": []
+    },
+    {
+     "code": "ORCA",
+     "name": "Oregon Caves National Monument & Preserve",
+     "state": "OR",
+     "stamp_state": "OR",
+     "designation": "National Monument & Preserve",
+     "visits": []
+    },
+    {
+     "code": "OREG",
+     "name": "Oregon National Historic Trail",
+     "state": "ID,KS,MO,NE,OR,WA,WY",
+     "stamp_state": "ID",
+     "designation": "National Historic Trail",
+     "visits": []
+    },
+    {
+     "code": "SAJH",
+     "name": "San Juan Island National Historical Park",
+     "state": "WA",
+     "stamp_state": "WA",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "SITK",
+     "name": "Sitka National Historical Park",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Historical Park",
+     "visits": []
+    },
+    {
+     "code": "WHMI",
+     "name": "Whitman Mission National Historic Site",
+     "state": "WA",
+     "stamp_state": "WA",
+     "designation": "National Historic Site",
+     "visits": []
+    },
+    {
+     "code": "WING",
+     "name": "Wing Luke Museum Affiliated Area",
+     "state": "WA",
+     "stamp_state": "WA",
+     "designation": "Affiliated Area",
+     "visits": []
+    },
+    {
+     "code": "WRST",
+     "name": "Wrangell - St Elias National Park & Preserve",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Park & Preserve",
+     "visits": []
+    },
+    {
+     "code": "YUCH",
+     "name": "Yukon - Charley Rivers National Preserve",
+     "state": "AK",
+     "stamp_state": "AK",
+     "designation": "National Preserve",
+     "visits": []
+    }
+   ]
+  }
+ }
+}

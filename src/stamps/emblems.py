@@ -162,3 +162,21 @@ def emblem_c(cx, cy, R=170):
             f'<textPath href="#ringC2" startOffset="50%" text-anchor="middle">★ EST. MMXXVI ★</textPath></text>'
             f'<circle r="{r_in+4}" fill="none" stroke-width="1.4"/>' + rope(r_in - 4, 64, 5.5, 1.6) +
             f'<circle r="{r_in-12}" fill="none" stroke-width="2"/>' + scene(r_in - 14, 'C') + '</g>')
+
+MASK = 'file://' + __import__('os').path.join(__import__('os').path.dirname(__import__('os').path.abspath(__file__)), 'eagleflag_mask.png')
+
+def scene_eagle(R, uid):
+    """Eagle soaring over a waving flag (traced from an original generated silhouette), gold with engraved line shading."""
+    sz = R * 1.86; x0 = -sz / 2; y0 = -sz / 2 + R * .06
+    hat = ''.join(f'<line x1="{-R*1.5:.0f}" y1="{k:.1f}" x2="{R*1.5:.0f}" y2="{k + R*.9:.1f}"/>' for k in [(-2*R) + i*3.4 for i in range(int(4*R/3.4))])
+    return (foil_u(uid, R) + f'<g fill="url(#fu{uid})" stroke="url(#fu{uid})">' + sky(R - 2, 10, uid, 4.6) + '</g>'
+            + f'<mask id="m{uid}" maskUnits="userSpaceOnUse" x="{-R}" y="{-R}" width="{2*R}" height="{2*R}">'
+              f'<image href="{MASK}" x="{x0:.1f}" y="{y0:.1f}" width="{sz:.1f}" height="{sz:.1f}"/></mask>'
+            + f'<clipPath id="sce{uid}"><circle r="{R-2}"/></clipPath><g clip-path="url(#sce{uid})">'
+            # navy knock-out halo so the figure separates from the sky rays
+            + f'<g mask="url(#m{uid})"><rect x="{-R}" y="{-R}" width="{2*R}" height="{2*R}" fill="url(#fu{uid})"/>'
+              f'<g stroke="{NAVY}" stroke-width=".55" opacity=".45">{hat}</g></g></g>')
+
+def emblem_c2(cx, cy, R=170):
+    r_in = R - 46
+    return emblem_c(cx, cy, R).replace(scene(r_in - 14, 'C'), scene_eagle(r_in - 14, 'E'))

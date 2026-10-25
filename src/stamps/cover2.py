@@ -53,9 +53,8 @@ def star(cx, cy, r):
 EAGLE = 'M100,92 L70,50 L50,20 L40,-4 L28,-2 L34,6 L18,6 L26,14 L8,16 L20,24 L0,30 L16,36 L4,46 L20,50 L22,62 L30,72 L38,80 L48,92 L58,98 L66,110 L76,114 L84,122 L86,140 L80,152 L70,164 L62,176 L74,174 L70,184 L80,186 L88,176 L100,166 L116,176 L140,192 L166,210 L176,222 L178,212 L192,220 L188,208 L204,212 L196,202 L210,200 L198,192 L206,186 L180,172 L150,150 L118,128 L122,124 L130,118 L140,114 L150,114 L156,110 L146,104 L136,100 L124,98 L112,96 Z'
 
 def art():
-    import eagleflag as ef
-    return ('<g fill="url(#gold)" filter="url(#foilgrain)">' + ef.flag() + ef.banner() + '</g>'
-            + '<g fill="url(#gold)" filter="url(#foilgrain)">' + ef.eagle(80, 470, 1.32) + '</g>')
+    import passport, emblems
+    return f'<defs>{passport.cover_texture(21)}</defs>' + f'<g transform="translate(472,830) scale(1.33)">' + emblems.emblem_c2(0, 0, 200) + '</g>'
 
 def title():
     return (f'<g fill="url(#gold)" filter="url(#foilgrain)">'

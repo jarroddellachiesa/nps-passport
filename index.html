@@ -5,15 +5,15 @@
 <meta property="og:title" content="NPS Passport"><meta property="og:image" content="img/cover.jpg">
 <link rel="icon" href="img/cover.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,600&family=Fira+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,600&family=Fira+Sans:wght@400;600;700&family=Inter:wght@800&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#0b1426;--navy:#14233f;--gold:#d4ae55;--gold2:#f3dd98;--paper:#f5efdf;--ink:#2a3d62;--red:#8c1d1d;--serif:"Crimson Pro",Georgia,serif;--sans:"Fira Sans",Helvetica,Arial,sans-serif}
 *{box-sizing:border-box}html,body{margin:0}
 body{background:radial-gradient(ellipse at 50% 15%,#22385f,var(--navy) 45%,var(--bg) 100%);color:var(--paper);font-family:var(--sans);min-height:100vh}
 body::before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.07;background:repeating-radial-gradient(circle at 50% 30%,transparent 0 6px,#d4ae55 6px 7px)}
 header{text-align:center;padding:22px 16px 8px}
-h1{font-family:var(--serif);font-weight:700;letter-spacing:.06em;font-size:clamp(26px,7vw,40px);margin:0;background:linear-gradient(170deg,var(--gold2),var(--gold) 40%,#9c7629 60%,var(--gold2));-webkit-background-clip:text;background-clip:text;color:transparent;text-shadow:0 1px 0 rgba(0,0,0,.2)}
-h1 em{display:block;font-size:.5em;font-weight:600;letter-spacing:.04em}
+h1{font-family:Inter,Arimo,Helvetica,Arial,sans-serif;font-weight:800;letter-spacing:-.04em;font-size:clamp(44px,12vw,68px);line-height:1;margin:0 auto;display:inline-block;padding:10px 4px 6px;border-top:2px solid var(--gold);border-bottom:2px solid var(--gold);background:linear-gradient(160deg,#f3dc86,#d2ae4a 55%,#f0d77c);-webkit-background-clip:text;background-clip:text;color:transparent}
+.sub{display:block;font-family:Inter,Arimo,sans-serif;font-weight:800;letter-spacing:-.03em;font-size:clamp(17px,4.6vw,24px);color:#e6c766;margin-top:8px}
 header p{margin:8px 0 0;opacity:.8;font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold2)}
 .stage{perspective:2200px;display:flex;justify-content:center;padding:10px 12px 0}
 .book{position:relative;width:min(92vw,calc((100svh - 190px)*.72),560px);aspect-ratio:900/1250;touch-action:pan-y;user-select:none;-webkit-user-select:none;cursor:pointer}
@@ -23,7 +23,7 @@ header p{margin:8px 0 0;opacity:.8;font-size:12px;letter-spacing:.22em;text-tran
 .front img{width:100%;height:100%;display:block}
 .front::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.18),rgba(0,0,0,0) 7%,rgba(255,255,255,.04) 50%,rgba(0,0,0,.06));pointer-events:none}
 .back{transform:rotateY(180deg);background:linear-gradient(90deg,#e9e1cb,#f4eedd)}
-.leaf.turned{pointer-events:none}.leaf.gone{visibility:hidden}
+.leaf:first-child .front{border-radius:4px 34px 34px 4px}.leaf.turned{pointer-events:none}.leaf.gone{visibility:hidden}
 .nav{display:flex;align-items:center;justify-content:center;gap:14px;padding:16px}
 .nav .arrow{background:none;border:1px solid rgba(216,185,106,.6);color:var(--gold);width:42px;height:42px;border-radius:50%;font-size:20px;cursor:pointer}
 .nav .arrow:disabled{opacity:.3}
@@ -66,7 +66,7 @@ section{box-sizing:border-box;width:100%}
 footer{text-align:center;font-size:12px;opacity:.45;padding-bottom:30px}
 @media (prefers-reduced-motion:reduce){.leaf{transition:none}}
 </style></head><body>
-<header><h1>Passport<em>To Your National Parks</em></h1><p>0 of 475 units visited · 9 regions</p></header>
+<header><h1>Passport</h1><span class="sub">To Your National Parks</span><p>0 of 475 units visited · 9 regions</p></header>
 <div id="viewer"><button class="fsclose" id="fsclose" aria-label="Exit full screen">×</button>
 <div class="stage"><div class="book" id="book">
 <div class="leaf" style="z-index:20"><div class="front"><picture><source srcset="img/cover.webp" type="image/webp"><img src="img/cover.jpg" alt="NPS Passport — cover" width="900" height="1250"  draggable="false"></picture></div><div class="back"></div></div>

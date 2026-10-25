@@ -349,6 +349,7 @@ def emblem(cx, cy, R):
       f'<path d="M-86,72 C-40,64 0,82 40,70 C60,66 80,68 88,66" fill="none" stroke-width="2"/></g>')
 
 def cover():
+    import cover2; render(cover2.cover_svg(), os.path.join(HERE, 'passport_cover.png')); return
     seed = 21
     s = [f'<defs>{cover_texture(seed)}</defs>',
          f'<rect width="{W}" height="{H}" fill="{NAVY}" filter="url(#leather)"/>',
@@ -373,6 +374,7 @@ def cover():
     render(svg(''.join(s), seed), os.path.join(HERE, 'passport_cover.png'))
 
 def back_cover():
+    import cover2; render(cover2.back_svg(load(), esc), os.path.join(HERE, 'passport_back.png')); return
     data = load(); seed = 33
     tot = sum(len(r['units']) for r in data.values()); vis = sum(1 for r in data.values() for u in r['units'] if u['visits'])
     s = [f'<defs>{cover_texture(seed)}</defs>', f'<rect width="{W}" height="{H}" fill="{NAVY}" filter="url(#leather)"/>',

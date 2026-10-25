@@ -11,6 +11,8 @@
      "state": "ME",
      "stamp_state": "ME",
      "designation": "National Park",
+     "lat": 44.409286,
+     "lon": -68.247501,
      "visits": []
     },
     {
@@ -19,6 +21,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historical Park",
+     "lat": 42.2553961,
+     "lon": -71.01160356,
      "visits": []
     },
     {
@@ -27,6 +31,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Monument",
+     "lat": 40.71452681,
+     "lon": -74.00447358,
      "visits": []
     },
     {
@@ -35,6 +41,8 @@
      "state": "CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV",
      "stamp_state": "CT",
      "designation": "National Scenic Trail",
+     "lat": 40.41029575,
+     "lon": -76.4337548,
      "visits": []
     },
     {
@@ -43,6 +51,8 @@
      "state": "RI,MA",
      "stamp_state": "RI",
      "designation": "National Historical Park",
+     "lat": 41.8775792792,
+     "lon": -71.382433945,
      "visits": []
     },
     {
@@ -51,6 +61,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historic Site",
+     "lat": 42.35908295,
+     "lon": -71.06764181,
      "visits": []
     },
     {
@@ -59,6 +71,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Recreation Area",
+     "lat": 42.30905526,
+     "lon": -70.93941138,
      "visits": []
     },
     {
@@ -67,6 +81,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historical Park",
+     "lat": 42.36957407,
+     "lon": -71.05536763,
      "visits": []
     },
     {
@@ -75,6 +91,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Seashore",
+     "lat": 41.92381465,
+     "lon": -70.04319832,
      "visits": []
     },
     {
@@ -83,6 +101,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Monument",
+     "lat": 40.70347795,
+     "lon": -74.01680558,
      "visits": []
     },
     {
@@ -91,6 +111,8 @@
      "state": "CT",
      "stamp_state": "CT",
      "designation": "National Historical Park",
+     "lat": 41.756169,
+     "lon": -72.663338,
      "visits": []
     },
     {
@@ -99,6 +121,8 @@
      "state": "NJ,PA",
      "stamp_state": "NJ",
      "designation": "National Recreation Area",
+     "lat": 41.12793491,
+     "lon": -74.94751173,
      "visits": []
     },
     {
@@ -107,6 +131,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historic Site",
+     "lat": 41.76208482,
+     "lon": -73.89894026,
      "visits": []
     },
     {
@@ -115,6 +141,8 @@
      "state": "NJ,NY",
      "stamp_state": "NJ",
      "designation": "Part of Statue of Liberty National Monument",
+     "lat": 40.69946,
+     "lon": -74.0401,
      "visits": []
     },
     {
@@ -123,6 +151,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Memorial",
+     "lat": 40.70731192,
+     "lon": -74.01025636,
      "visits": []
     },
     {
@@ -131,6 +161,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Seashore",
+     "lat": 40.69668638,
+     "lon": -73.00013462,
      "visits": []
     },
     {
@@ -139,6 +171,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Monument",
+     "lat": 43.21053441,
+     "lon": -75.45557626,
      "visits": []
     },
     {
@@ -147,6 +181,8 @@
      "state": "ME",
      "stamp_state": "ME",
      "designation": "National Monument",
+     "lat": 44.0052,
+     "lon": -69.5568,
      "visits": []
     },
     {
@@ -155,6 +191,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historic Site",
+     "lat": 42.32424266,
+     "lon": -71.13202567,
      "visits": []
     },
     {
@@ -163,6 +201,8 @@
      "state": "NY,NJ",
      "stamp_state": "NY",
      "designation": "National Recreation Area",
+     "lat": 40.56536246,
+     "lon": -73.9171087,
      "visits": []
     },
     {
@@ -171,6 +211,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Memorial",
+     "lat": 40.81332817,
+     "lon": -73.96331542,
      "visits": []
     },
     {
@@ -179,6 +221,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Monument",
+     "lat": 40.69164233,
+     "lon": -74.01670765,
      "visits": []
     },
     {
@@ -187,6 +231,8 @@
      "state": "NJ",
      "stamp_state": "NJ",
      "designation": "Affiliated Area",
+     "lat": 39.3042,
+     "lon": -74.6497,
      "visits": []
     },
     {
@@ -195,6 +241,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Memorial",
+     "lat": 40.81871605,
+     "lon": -73.94878487,
      "visits": []
     },
     {
@@ -203,6 +251,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historical Park",
+     "lat": 42.9128920287,
+     "lon": -76.5646715462,
      "visits": []
     },
     {
@@ -211,6 +261,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historic Site",
+     "lat": 41.76639758,
+     "lon": -73.92516857,
      "visits": []
     },
     {
@@ -219,6 +271,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historic Site",
+     "lat": 42.34693694,
+     "lon": -71.12323846,
      "visits": []
     },
     {
@@ -227,6 +281,8 @@
      "state": "ME",
      "stamp_state": "ME",
      "designation": "National Monument",
+     "lat": 45.9567565918,
+     "lon": -68.7122879028,
      "visits": []
     },
     {
@@ -235,6 +291,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historic Site",
+     "lat": 42.37698854,
+     "lon": -71.12636956,
      "visits": []
     },
     {
@@ -243,6 +301,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historical Park",
+     "lat": 42.6455371,
+     "lon": -71.31588673,
      "visits": []
     },
     {
@@ -251,6 +311,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historic Site",
+     "lat": 40.7187683,
+     "lon": -73.99001245,
      "visits": []
     },
     {
@@ -259,6 +321,8 @@
      "state": "ME",
      "stamp_state": "ME",
      "designation": "Affiliated Area",
+     "lat": 47.25102114,
+     "lon": -68.59447532,
      "visits": []
     },
     {
@@ -267,6 +331,8 @@
      "state": "VT",
      "stamp_state": "VT",
      "designation": "National Historical Park",
+     "lat": 43.63348732,
+     "lon": -72.53424638,
      "visits": []
     },
     {
@@ -275,6 +341,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historic Site",
+     "lat": 42.36819596,
+     "lon": -73.70834257,
      "visits": []
     },
     {
@@ -283,6 +351,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historical Park",
+     "lat": 42.4562778,
+     "lon": -71.30738884,
      "visits": []
     },
     {
@@ -291,6 +361,8 @@
      "state": "NJ",
      "stamp_state": "NJ",
      "designation": "National Historical Park",
+     "lat": 40.7650755,
+     "lon": -74.53455122,
      "visits": []
     },
     {
@@ -299,6 +371,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "Affiliated Area",
+     "lat": 40.6632,
+     "lon": -74.0451,
      "visits": []
     },
     {
@@ -307,6 +381,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historical Park",
+     "lat": 41.63540552,
+     "lon": -70.92322321,
      "visits": []
     },
     {
@@ -315,6 +391,8 @@
      "state": "MA,CT",
      "stamp_state": "MA",
      "designation": "National Scenic Trail",
+     "lat": 42.2915819137,
+     "lon": -72.5242767334,
      "visits": []
     },
     {
@@ -323,6 +401,8 @@
      "state": "NJ",
      "stamp_state": "NJ",
      "designation": "National Reserve",
+     "lat": 39.9384,
+     "lon": -74.625,
      "visits": []
     },
     {
@@ -331,6 +411,8 @@
      "state": "NJ",
      "stamp_state": "NJ",
      "designation": "National Historical Park",
+     "lat": 40.91584645,
+     "lon": -74.18021494,
      "visits": []
     },
     {
@@ -339,6 +421,8 @@
      "state": "RI",
      "stamp_state": "RI",
      "designation": "National Memorial",
+     "lat": 41.8298955,
+     "lon": -71.41056665,
      "visits": []
     },
     {
@@ -347,6 +431,8 @@
      "state": "ME",
      "stamp_state": "ME",
      "designation": "International Park",
+     "lat": 44.8736,
+     "lon": -66.9621,
      "visits": []
     },
     {
@@ -355,6 +441,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historic Site",
+     "lat": 40.88579128,
+     "lon": -73.49686438,
      "visits": []
     },
     {
@@ -363,6 +451,8 @@
      "state": "ME",
      "stamp_state": "ME",
      "designation": "International Historic Site",
+     "lat": 45.12858838,
+     "lon": -67.13363651,
      "visits": []
     },
     {
@@ -371,6 +461,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historic Site",
+     "lat": 40.89283511,
+     "lon": -73.82577276,
      "visits": []
     },
     {
@@ -379,6 +471,8 @@
      "state": "NH",
      "stamp_state": "NH",
      "designation": "National Historical Park",
+     "lat": 43.4997238,
+     "lon": -72.37333969,
      "visits": []
     },
     {
@@ -387,6 +481,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historical Park",
+     "lat": 42.52024529,
+     "lon": -70.88640867,
      "visits": []
     },
     {
@@ -395,6 +491,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historical Park",
+     "lat": 42.99522612,
+     "lon": -73.63386108,
      "visits": []
     },
     {
@@ -403,6 +501,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historic Site",
+     "lat": 42.46830664,
+     "lon": -71.0076953,
      "visits": []
     },
     {
@@ -411,6 +511,8 @@
      "state": "MA",
      "stamp_state": "MA",
      "designation": "National Historic Site",
+     "lat": 42.1086368,
+     "lon": -72.57967415,
      "visits": []
     },
     {
@@ -419,6 +521,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Monument",
+     "lat": 40.6898,
+     "lon": -74.0451,
      "visits": []
     },
     {
@@ -427,6 +531,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Monument",
+     "lat": 40.7337799072,
+     "lon": -74.0006866455,
      "visits": []
     },
     {
@@ -435,6 +541,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historic Site",
+     "lat": 40.7386469,
+     "lon": -73.98903703,
      "visits": []
     },
     {
@@ -443,6 +551,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historic Site",
+     "lat": 42.90146781,
+     "lon": -78.87248411,
      "visits": []
     },
     {
@@ -451,6 +561,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historic Site",
+     "lat": 42.22570607,
+     "lon": -73.86154864,
      "visits": []
     },
     {
@@ -459,6 +571,8 @@
      "state": "NJ",
      "stamp_state": "NJ",
      "designation": "National Historical Park",
+     "lat": 40.78549896,
+     "lon": -74.23821139,
      "visits": []
     },
     {
@@ -467,6 +581,8 @@
      "state": "RI",
      "stamp_state": "RI",
      "designation": "National Historic Site",
+     "lat": 41.4893,
+     "lon": -71.3121,
      "visits": []
     },
     {
@@ -475,6 +591,8 @@
      "state": "NY,PA",
      "stamp_state": "NY",
      "designation": "Scenic & Recreational River",
+     "lat": 41.66172578,
+     "lon": -75.03861562,
      "visits": []
     },
     {
@@ -483,6 +601,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historic Site",
+     "lat": 41.79697937,
+     "lon": -73.94205557,
      "visits": []
     },
     {
@@ -491,6 +611,8 @@
      "state": "MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC",
      "stamp_state": "MA",
      "designation": "National Historic Trail",
+     "lat": 40.0958204557,
+     "lon": -74.8563515109,
      "visits": []
     },
     {
@@ -499,6 +621,8 @@
      "state": "CT",
      "stamp_state": "CT",
      "designation": "National Historical Park",
+     "lat": 41.25886268,
+     "lon": -73.45452542,
      "visits": []
     },
     {
@@ -507,6 +631,8 @@
      "state": "NY",
      "stamp_state": "NY",
      "designation": "National Historical Park",
+     "lat": 42.90817073,
+     "lon": -76.81655558,
      "visits": []
     }
    ]
@@ -521,6 +647,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Historic Site",
+     "lat": 40.42977467,
+     "lon": -78.57431622,
      "visits": []
     },
     {
@@ -529,6 +657,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "National Battlefield",
+     "lat": 39.46763452,
+     "lon": -77.73828017,
      "visits": []
     },
     {
@@ -537,6 +667,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Historical Park",
+     "lat": 37.38022164,
+     "lon": -78.79856982,
      "visits": []
     },
     {
@@ -545,6 +677,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "Affiliated Area",
+     "lat": 38.8822021484,
+     "lon": -77.0734786987,
      "visits": []
     },
     {
@@ -553,6 +687,8 @@
      "state": "MD,VA",
      "stamp_state": "MD",
      "designation": "National Seashore",
+     "lat": 38.05593172,
+     "lon": -75.24524611,
      "visits": []
     },
     {
@@ -561,6 +697,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "Parkway",
+     "lat": 39.02604289,
+     "lon": -76.85410921,
      "visits": []
     },
     {
@@ -569,6 +707,8 @@
      "state": "WV",
      "stamp_state": "WV",
      "designation": "National Scenic River",
+     "lat": 37.56577087,
+     "lon": -80.98366657,
      "visits": []
     },
     {
@@ -577,6 +717,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Monument",
+     "lat": 37.11520539,
+     "lon": -79.73185833,
      "visits": []
     },
     {
@@ -585,6 +727,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "Part of Colonial National Historical Park",
+     "lat": 36.9278094,
+     "lon": -76.0088219,
      "visits": []
     },
     {
@@ -593,6 +737,8 @@
      "state": "VA,MD,DE,DC,PA,NY",
      "stamp_state": "VA",
      "designation": "National Historic Trail",
+     "lat": 38.971601,
+     "lon": -76.483355,
      "visits": []
     },
     {
@@ -601,6 +747,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Monument",
+     "lat": 40.2094,
+     "lon": -77.17971,
      "visits": []
     },
     {
@@ -609,6 +757,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "Park",
+     "lat": 39.65068457,
+     "lon": -77.46417665,
      "visits": []
     },
     {
@@ -617,6 +767,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Historical Park",
+     "lat": 39.0093576,
+     "lon": -78.30618934,
      "visits": []
     },
     {
@@ -625,6 +777,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "National Historic Site",
+     "lat": 38.96762882,
+     "lon": -77.14009689,
      "visits": []
     },
     {
@@ -633,6 +787,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Historical Park",
+     "lat": 37.22824435,
+     "lon": -76.61998123,
      "visits": []
     },
     {
@@ -641,6 +797,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Historic Site",
+     "lat": 39.96195482,
+     "lon": -75.1500062,
      "visits": []
     },
     {
@@ -649,6 +807,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Historic Site",
+     "lat": 39.79577592,
+     "lon": -77.26508101,
      "visits": []
     },
     {
@@ -657,6 +817,8 @@
      "state": "DE,PA",
      "stamp_state": "DE",
      "designation": "National Historical Park",
+     "lat": 39.83076929,
+     "lon": -75.56353942,
      "visits": []
     },
     {
@@ -665,6 +827,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Memorial",
+     "lat": 40.06061476,
+     "lon": -78.89456905,
      "visits": []
     },
     {
@@ -673,6 +837,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "Park",
+     "lat": 38.76901785,
+     "lon": -77.02812387,
      "visits": []
     },
     {
@@ -681,6 +847,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "National Monument and Historic Shrine",
+     "lat": 39.26395314,
+     "lon": -76.58044165,
      "visits": []
     },
     {
@@ -689,6 +857,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Monument",
+     "lat": 37.01733343,
+     "lon": -76.30103195,
      "visits": []
     },
     {
@@ -697,6 +867,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Battlefield",
+     "lat": 39.81306048,
+     "lon": -79.59033344,
      "visits": []
     },
     {
@@ -705,6 +877,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "Park",
+     "lat": 38.7117,
+     "lon": -77.0302,
      "visits": []
     },
     {
@@ -713,6 +887,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Military Park",
+     "lat": 38.29378,
+     "lon": -77.46734,
      "visits": []
     },
     {
@@ -721,6 +897,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Historic Site",
+     "lat": 39.77543423,
+     "lon": -79.92504169,
      "visits": []
     },
     {
@@ -729,6 +907,8 @@
      "state": "WV",
      "stamp_state": "WV",
      "designation": "National Recreation Area",
+     "lat": 38.20614947,
+     "lon": -81.00420836,
      "visits": []
     },
     {
@@ -737,6 +917,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Monument",
+     "lat": 38.19362603,
+     "lon": -76.92079458,
      "visits": []
     },
     {
@@ -745,6 +927,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Military Park",
+     "lat": 39.81557366,
+     "lon": -77.23246758,
      "visits": []
     },
     {
@@ -753,6 +937,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "Park",
+     "lat": 38.96912315,
+     "lon": -77.14012206,
      "visits": []
     },
     {
@@ -761,6 +947,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Historic Site",
+     "lat": 39.93435005,
+     "lon": -75.14398924,
      "visits": []
     },
     {
@@ -769,6 +957,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "Park",
+     "lat": 38.98776107,
+     "lon": -77.25128326,
      "visits": []
     },
     {
@@ -777,6 +967,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "Affiliated Area",
+     "lat": 38.037099,
+     "lon": -78.189823,
      "visits": []
     },
     {
@@ -785,6 +977,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "Park",
+     "lat": 38.98328267,
+     "lon": -76.89722133,
      "visits": []
     },
     {
@@ -793,6 +987,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "National Historic Site",
+     "lat": 39.4175296,
+     "lon": -76.58781182,
      "visits": []
     },
     {
@@ -801,6 +997,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "Affiliated Area",
+     "lat": 38.74646351,
+     "lon": -77.00377069,
      "visits": []
     },
     {
@@ -809,6 +1007,8 @@
      "state": "WV,VA,MD",
      "stamp_state": "WV",
      "designation": "National Historical Park",
+     "lat": 39.31865949,
+     "lon": -77.74088546,
      "visits": []
     },
     {
@@ -817,6 +1017,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "National Historical Park",
+     "lat": 38.4548643511,
+     "lon": -76.1373451376,
      "visits": []
     },
     {
@@ -825,6 +1027,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "Part of Colonial National Historical Park",
+     "lat": 37.2065,
+     "lon": -76.7538,
      "visits": []
     },
     {
@@ -833,6 +1037,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Historic Site",
+     "lat": 40.20610637,
+     "lon": -75.76766355,
      "visits": []
     },
     {
@@ -841,6 +1047,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Historical Park",
+     "lat": 39.94746112,
+     "lon": -75.14794157,
      "visits": []
     },
     {
@@ -849,6 +1057,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Memorial",
+     "lat": 40.34584534,
+     "lon": -78.77448601,
      "visits": []
     },
     {
@@ -857,6 +1067,8 @@
      "state": "PA,NJ",
      "stamp_state": "PA",
      "designation": "National Wild and Scenic River",
+     "lat": 40.4000389,
+     "lon": -74.983737,
      "visits": []
     },
     {
@@ -865,6 +1077,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Historic Site",
+     "lat": 37.54781499,
+     "lon": -77.43746979,
      "visits": []
     },
     {
@@ -873,6 +1087,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Battlefield Park",
+     "lat": 38.81710063,
+     "lon": -77.5353468,
      "visits": []
     },
     {
@@ -881,6 +1097,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "National Battlefield",
+     "lat": 39.36084236,
+     "lon": -77.39637677,
      "visits": []
     },
     {
@@ -889,6 +1107,8 @@
      "state": "WV",
      "stamp_state": "WV",
      "designation": "National Park & Preserve",
+     "lat": 37.86878554,
+     "lon": -80.99956002,
      "visits": []
     },
     {
@@ -897,6 +1117,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "Affiliated Area",
+     "lat": 38.80578214,
+     "lon": -77.01131457,
      "visits": []
     },
     {
@@ -905,6 +1127,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Battlefield",
+     "lat": 37.19109957,
+     "lon": -77.47594865,
      "visits": []
     },
     {
@@ -913,6 +1137,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "Park",
+     "lat": 38.6929,
+     "lon": -77.067,
      "visits": []
     },
     {
@@ -921,6 +1147,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "Park",
+     "lat": 38.58589108,
+     "lon": -77.38910997,
      "visits": []
     },
     {
@@ -929,6 +1157,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Battlefield Park",
+     "lat": 37.48774472,
+     "lon": -77.29107785,
      "visits": []
     },
     {
@@ -937,6 +1167,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "National Park",
+     "lat": 38.49236644,
+     "lon": -78.46907715,
      "visits": []
     },
     {
@@ -945,6 +1177,8 @@
      "state": "MD,VA,DC",
      "stamp_state": "MD",
      "designation": "National Historic Trail",
+     "lat": 39.2872505188,
+     "lon": -76.6034317017,
      "visits": []
     },
     {
@@ -953,6 +1187,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Historic Site",
+     "lat": 41.40757521,
+     "lon": -75.67037255,
      "visits": []
     },
     {
@@ -961,6 +1197,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Memorial",
+     "lat": 39.94345312,
+     "lon": -75.14732045,
      "visits": []
     },
     {
@@ -969,6 +1207,8 @@
      "state": "MD",
      "stamp_state": "MD",
      "designation": "National Historic Site",
+     "lat": 38.52934443,
+     "lon": -77.037813,
      "visits": []
     },
     {
@@ -977,6 +1217,8 @@
      "state": "PA",
      "stamp_state": "PA",
      "designation": "National Historical Park",
+     "lat": 40.10054985,
+     "lon": -75.44581889,
      "visits": []
     },
     {
@@ -985,6 +1227,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "Affiliated Area",
+     "lat": 38.93854526,
+     "lon": -77.265089,
      "visits": []
     },
     {
@@ -993,6 +1237,8 @@
      "state": "VA",
      "stamp_state": "VA",
      "designation": "Part of Colonial National Historical Park",
+     "lat": 37.2195,
+     "lon": -76.4983,
      "visits": []
     }
    ]
@@ -1007,6 +1253,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.9166,
+     "lon": -77.026,
      "visits": []
     },
     {
@@ -1015,6 +1263,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Park",
+     "lat": 38.8782,
+     "lon": -76.9703,
      "visits": []
     },
     {
@@ -1023,6 +1273,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "National Monument",
+     "lat": 38.89231541,
+     "lon": -77.00381882,
      "visits": []
     },
     {
@@ -1031,6 +1283,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.889993,
+     "lon": -76.990332,
      "visits": []
     },
     {
@@ -1039,6 +1293,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "National Historic Site",
+     "lat": 38.91089286,
+     "lon": -77.02431104,
      "visits": []
     },
     {
@@ -1047,6 +1303,8 @@
      "state": "DC,MD,WV",
      "stamp_state": "DC",
      "designation": "National Historical Park",
+     "lat": 39.000283692,
+     "lon": -77.2481399539,
      "visits": []
     },
     {
@@ -1055,6 +1313,8 @@
      "state": "DC,DE,MD,NY,PA,VA,WV",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.971601,
+     "lon": -76.483355,
      "visits": []
     },
     {
@@ -1063,6 +1323,8 @@
      "state": "DC,MD,VA",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.9644,
+     "lon": -77.0292,
      "visits": []
     },
     {
@@ -1071,6 +1333,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.8909354,
+     "lon": -77.04409306,
      "visits": []
     },
     {
@@ -1079,6 +1343,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Memorial",
+     "lat": 38.89170687,
+     "lon": -77.05068618,
      "visits": []
     },
     {
@@ -1087,6 +1353,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Memorial",
+     "lat": 38.8869476647,
+     "lon": -77.018737554,
      "visits": []
     },
     {
@@ -1095,6 +1363,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "National Historic Site",
+     "lat": 38.89668819,
+     "lon": -77.02577944,
      "visits": []
     },
     {
@@ -1103,6 +1373,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.87731289,
+     "lon": -76.94955824,
      "visits": []
     },
     {
@@ -1111,6 +1383,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.88341274,
+     "lon": -77.04311542,
      "visits": []
     },
     {
@@ -1119,6 +1393,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "National Historic Site",
+     "lat": 38.86298458,
+     "lon": -76.98508147,
      "visits": []
     },
     {
@@ -1127,6 +1403,8 @@
      "state": "DC,MD,VA",
      "stamp_state": "DC",
      "designation": "Memorial Parkway",
+     "lat": 38.9628,
+     "lon": -77.1495,
      "visits": []
     },
     {
@@ -1135,6 +1413,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.9128,
+     "lon": -76.9434,
      "visits": []
     },
     {
@@ -1143,6 +1423,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.88784226,
+     "lon": -77.04773857,
      "visits": []
     },
     {
@@ -1151,6 +1433,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.87858036,
+     "lon": -77.05145832,
      "visits": []
     },
     {
@@ -1159,6 +1443,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.88927229,
+     "lon": -77.05017778,
      "visits": []
     },
     {
@@ -1167,6 +1453,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.8862276865,
+     "lon": -77.0442195534,
      "visits": []
     },
     {
@@ -1175,6 +1463,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "National Historic Site",
+     "lat": 38.90819107,
+     "lon": -77.03096742,
      "visits": []
     },
     {
@@ -1183,6 +1473,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.8659,
+     "lon": -76.994,
      "visits": []
     },
     {
@@ -1191,6 +1483,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.8899,
+     "lon": -77.026,
      "visits": []
     },
     {
@@ -1199,6 +1493,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.89426856,
+     "lon": -77.02506554,
      "visits": []
     },
     {
@@ -1207,6 +1503,8 @@
      "state": "DC,MD,PA,VA",
      "stamp_state": "DC",
      "designation": "National Scenic Trail",
+     "lat": 39.15060133,
+     "lon": -77.52301085,
      "visits": []
     },
     {
@@ -1215,6 +1513,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Park",
+     "lat": 38.95125063,
+     "lon": -77.05002838,
      "visits": []
     },
     {
@@ -1223,6 +1523,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.89541886,
+     "lon": -77.03654147,
      "visits": []
     },
     {
@@ -1231,6 +1533,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.89584162,
+     "lon": -77.06241918,
      "visits": []
     },
     {
@@ -1239,6 +1543,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.88101431,
+     "lon": -77.03632572,
      "visits": []
     },
     {
@@ -1247,6 +1553,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.89096297,
+     "lon": -77.04765735,
      "visits": []
     },
     {
@@ -1255,6 +1563,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.88948,
+     "lon": -77.035207,
      "visits": []
     },
     {
@@ -1263,6 +1573,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.8959,
+     "lon": -77.0329,
      "visits": []
     },
     {
@@ -1271,6 +1583,8 @@
      "state": "DC",
      "stamp_state": "DC",
      "designation": "Affiliated Area",
+     "lat": 38.88923917,
+     "lon": -77.0403759,
      "visits": []
     }
    ]
@@ -1285,6 +1599,8 @@
      "state": "KY",
      "stamp_state": "KY",
      "designation": "National Historical Park",
+     "lat": 37.5858662,
+     "lon": -85.67330523,
      "visits": []
     },
     {
@@ -1293,6 +1609,8 @@
      "state": "GA",
      "stamp_state": "GA",
      "designation": "National Historic Site",
+     "lat": 32.19831758,
+     "lon": -84.12988898,
      "visits": []
     },
     {
@@ -1301,6 +1619,8 @@
      "state": "TN",
      "stamp_state": "TN",
      "designation": "National Historic Site",
+     "lat": 36.15624509,
+     "lon": -82.83709021,
      "visits": []
     },
     {
@@ -1309,6 +1629,8 @@
      "state": "FL",
      "stamp_state": "FL",
      "designation": "National Preserve",
+     "lat": 25.97079602,
+     "lon": -81.08120629,
      "visits": []
     },
     {
@@ -1317,6 +1639,8 @@
      "state": "KY,TN",
      "stamp_state": "KY",
      "designation": "National River & Recreation Area",
+     "lat": 36.5348388,
+     "lon": -84.66506688,
      "visits": []
     },
     {
@@ -1325,6 +1649,8 @@
      "state": "AL",
      "stamp_state": "AL",
      "designation": "National Monument",
+     "lat": 33.5154266357,
+     "lon": -86.814666748,
      "visits": []
     },
     {
@@ -1333,6 +1659,8 @@
      "state": "FL",
      "stamp_state": "FL",
      "designation": "National Park",
+     "lat": 25.490587,
+     "lon": -80.21023851,
      "visits": []
     },
     {
@@ -1341,6 +1669,8 @@
      "state": "NC,VA",
      "stamp_state": "NC",
      "designation": "Parkway",
+     "lat": 35.5657195274,
+     "lon": -82.486484587,
      "visits": []
     },
     {
@@ -1349,6 +1679,8 @@
      "state": "MS",
      "stamp_state": "MS",
      "designation": "National Battlefield Site",
+     "lat": 34.50611958,
+     "lon": -88.72889343,
      "visits": []
     },
     {
@@ -1357,6 +1689,8 @@
      "state": "VI",
      "stamp_state": "VI",
      "designation": "National Monument",
+     "lat": 17.81026717,
+     "lon": -64.6222179,
      "visits": []
     },
     {
@@ -1365,6 +1699,8 @@
      "state": "KY",
      "stamp_state": "KY",
      "designation": "National Monument",
+     "lat": 37.7970179913,
+     "lon": -84.598168306,
      "visits": []
     },
     {
@@ -1373,6 +1709,8 @@
      "state": "FL",
      "stamp_state": "FL",
      "designation": "National Seashore",
+     "lat": 28.78637529,
+     "lon": -80.75419576,
      "visits": []
     },
     {
@@ -1381,6 +1719,8 @@
      "state": "NC",
      "stamp_state": "NC",
      "designation": "National Seashore",
+     "lat": 35.41370839,
+     "lon": -75.65061112,
      "visits": []
     },
     {
@@ -1389,6 +1729,8 @@
      "state": "NC",
      "stamp_state": "NC",
      "designation": "National Seashore",
+     "lat": 34.8267961,
+     "lon": -76.34319082,
      "visits": []
     },
     {
@@ -1397,6 +1739,8 @@
      "state": "NC",
      "stamp_state": "NC",
      "designation": "National Historic Site",
+     "lat": 35.26815509,
+     "lon": -82.45106258,
      "visits": []
     },
     {
@@ -1405,6 +1749,8 @@
      "state": "FL",
      "stamp_state": "FL",
      "designation": "National Monument",
+     "lat": 29.89785701,
+     "lon": -81.31217173,
      "visits": []
     },
     {
@@ -1413,6 +1759,8 @@
      "state": "SC",
      "stamp_state": "SC",
      "designation": "National Historic Site",
+     "lat": 32.84577392,
+     "lon": -79.82487582,
      "visits": []
     },
     {
@@ -1421,6 +1769,8 @@
      "state": "GA",
      "stamp_state": "GA",
      "designation": "National Recreation Area",
+     "lat": 33.99698333,
+     "lon": -84.28953177,
      "visits": []
     },
     {
@@ -1429,6 +1779,8 @@
      "state": "GA,TN",
      "stamp_state": "GA",
      "designation": "National Military Park",
+     "lat": 34.94317623,
+     "lon": -85.28749537,
      "visits": []
     },
     {
@@ -1437,6 +1789,8 @@
      "state": "VI",
      "stamp_state": "VI",
      "designation": "National Historic Site",
+     "lat": 17.7468,
+     "lon": -64.7022,
      "visits": []
     },
     {
@@ -1445,6 +1799,8 @@
      "state": "SC",
      "stamp_state": "SC",
      "designation": "National Park",
+     "lat": 33.79187523,
+     "lon": -80.74867805,
      "visits": []
     },
     {
@@ -1453,6 +1809,8 @@
      "state": "SC",
      "stamp_state": "SC",
      "designation": "National Battlefield",
+     "lat": 35.13160654,
+     "lon": -81.80935433,
      "visits": []
     },
     {
@@ -1461,6 +1819,8 @@
      "state": "KY,TN,VA",
      "stamp_state": "KY",
      "designation": "National Historical Park",
+     "lat": 36.62503076,
+     "lon": -83.6114083,
      "visits": []
     },
     {
@@ -1469,6 +1829,8 @@
      "state": "GA",
      "stamp_state": "GA",
      "designation": "National Seashore",
+     "lat": 30.85857484,
+     "lon": -81.45253575,
      "visits": []
     },
     {
@@ -1477,6 +1839,8 @@
      "state": "FL",
      "stamp_state": "FL",
      "designation": "National Memorial",
+     "lat": 27.52272613,
+     "lon": -82.64335416,
      "visits": []
     },
     {
@@ -1485,6 +1849,8 @@
      "state": "FL",
      "stamp_state": "FL",
      "designation": "National Park",
+     "lat": 24.628741,
+     "lon": -82.87319,
      "visits": []
     },
     {
@@ -1493,6 +1859,8 @@
      "state": "FL",
      "stamp_state": "FL",
      "designation": "National Park",
+     "lat": 25.37294225,
+     "lon": -80.88200301,
      "visits": []
     },
     {
@@ -1501,6 +1869,8 @@
      "state": "KY,TN",
      "stamp_state": "KY",
      "designation": "National Battlefield",
+     "lat": 36.49019078,
+     "lon": -87.92445695,
      "visits": []
     },
     {
@@ -1509,6 +1879,8 @@
      "state": "GA",
      "stamp_state": "GA",
      "designation": "National Monument",
+     "lat": 31.2214699,
+     "lon": -81.39452014,
      "visits": []
     },
     {
@@ -1517,6 +1889,8 @@
      "state": "FL",
      "stamp_state": "FL",
      "designation": "National Monument",
+     "lat": 29.7121489,
+     "lon": -81.23567535,
      "visits": []
     },
     {
@@ -1525,6 +1899,8 @@
      "state": "GA",
      "stamp_state": "GA",
      "designation": "National Monument",
+     "lat": 32.0308274,
+     "lon": -80.93361681,
      "visits": []
     },
     {
@@ -1533,6 +1909,8 @@
      "state": "NC",
      "stamp_state": "NC",
      "designation": "National Historic Site",
+     "lat": 35.93278602,
+     "lon": -75.71496865,
      "visits": []
     },
     {
@@ -1541,6 +1919,8 @@
      "state": "SC",
      "stamp_state": "SC",
      "designation": "National Historical Park",
+     "lat": 32.75654469,
+     "lon": -79.87068744,
      "visits": []
     },
     {
@@ -1549,6 +1929,8 @@
      "state": "AL",
      "stamp_state": "AL",
      "designation": "National Monument",
+     "lat": 33.635269165,
+     "lon": -85.9064331055,
      "visits": []
     },
     {
@@ -1557,6 +1939,8 @@
      "state": "NC,TN",
      "stamp_state": "NC",
      "designation": "National Park",
+     "lat": 35.60116374,
+     "lon": -83.50818326,
      "visits": []
     },
     {
@@ -1565,6 +1949,8 @@
      "state": "NC",
      "stamp_state": "NC",
      "designation": "National Military Park",
+     "lat": 36.13225478,
+     "lon": -79.8424561,
      "visits": []
     },
     {
@@ -1573,6 +1959,8 @@
      "state": "FL,MS",
      "stamp_state": "FL",
      "designation": "National Seashore",
+     "lat": 30.3211,
+     "lon": -87.2304,
      "visits": []
     },
     {
@@ -1581,6 +1969,8 @@
      "state": "AL",
      "stamp_state": "AL",
      "designation": "National Military Park",
+     "lat": 32.97668879,
+     "lon": -85.73413589,
      "visits": []
     },
     {
@@ -1589,6 +1979,8 @@
      "state": "GA",
      "stamp_state": "GA",
      "designation": "National Historical Park",
+     "lat": 32.03611,
+     "lon": -84.3924,
      "visits": []
     },
     {
@@ -1597,6 +1989,8 @@
      "state": "GA",
      "stamp_state": "GA",
      "designation": "National Battlefield Park",
+     "lat": 33.95370717,
+     "lon": -84.59214186,
      "visits": []
     },
     {
@@ -1605,6 +1999,8 @@
      "state": "SC",
      "stamp_state": "SC",
      "designation": "National Military Park",
+     "lat": 35.13900723,
+     "lon": -81.38978712,
      "visits": []
     },
     {
@@ -1613,6 +2009,8 @@
      "state": "AL",
      "stamp_state": "AL",
      "designation": "National Preserve",
+     "lat": 34.41461863,
+     "lon": -85.61734327,
      "visits": []
     },
     {
@@ -1621,6 +2019,8 @@
      "state": "KY",
      "stamp_state": "KY",
      "designation": "National Park",
+     "lat": 37.19760458,
+     "lon": -86.13090198,
      "visits": []
     },
     {
@@ -1629,6 +2029,8 @@
      "state": "GA",
      "stamp_state": "GA",
      "designation": "National Historical Park",
+     "lat": 33.75618241,
+     "lon": -84.37256768,
      "visits": []
     },
     {
@@ -1637,6 +2039,8 @@
      "state": "MS",
      "stamp_state": "MS",
      "designation": "National Monument",
+     "lat": 32.34096274,
+     "lon": -90.21264553,
      "visits": []
     },
     {
@@ -1645,6 +2049,8 @@
      "state": "KY",
      "stamp_state": "KY",
      "designation": "National Monument",
+     "lat": 37.0688158602,
+     "lon": -84.7375361304,
      "visits": []
     },
     {
@@ -1653,6 +2059,8 @@
      "state": "NC",
      "stamp_state": "NC",
      "designation": "National Battlefield",
+     "lat": 34.45820776,
+     "lon": -78.11031134,
      "visits": []
     },
     {
@@ -1661,6 +2069,8 @@
      "state": "MS",
      "stamp_state": "MS",
      "designation": "National Historical Park",
+     "lat": 31.54697621,
+     "lon": -91.39040665,
      "visits": []
     },
     {
@@ -1669,6 +2079,8 @@
      "state": "AL,MS,TN",
      "stamp_state": "AL",
      "designation": "National Scenic Trail",
+     "lat": 34.330290333,
+     "lon": -88.7100104094,
      "visits": []
     },
     {
@@ -1677,6 +2089,8 @@
      "state": "AL,MS,TN",
      "stamp_state": "AL",
      "designation": "Parkway",
+     "lat": 33.78002293,
+     "lon": -89.03092439,
      "visits": []
     },
     {
@@ -1685,6 +2099,8 @@
      "state": "SC",
      "stamp_state": "SC",
      "designation": "National Historic Site",
+     "lat": 34.14273587,
+     "lon": -82.01636079,
      "visits": []
     },
     {
@@ -1693,6 +2109,8 @@
      "state": "TN",
      "stamp_state": "TN",
      "designation": "Wild & Scenic River",
+     "lat": 36.1056026037,
+     "lon": -84.5979170501,
      "visits": []
     },
     {
@@ -1701,6 +2119,8 @@
      "state": "GA",
      "stamp_state": "GA",
      "designation": "National Historical Park",
+     "lat": 32.83816576,
+     "lon": -83.60224853,
      "visits": []
     },
     {
@@ -1709,6 +2129,8 @@
      "state": "NC,SC,TN,VA",
      "stamp_state": "NC",
      "designation": "National Historic Trail",
+     "lat": 35.14044,
+     "lon": -81.377,
      "visits": []
     },
     {
@@ -1717,6 +2139,8 @@
      "state": "SC",
      "stamp_state": "SC",
      "designation": "National Historical Park",
+     "lat": 32.3868598938,
+     "lon": -80.6511077881,
      "visits": []
     },
     {
@@ -1725,6 +2149,8 @@
      "state": "AL",
      "stamp_state": "AL",
      "designation": "National Monument",
+     "lat": 34.97402063,
+     "lon": -85.81560314,
      "visits": []
     },
     {
@@ -1733,6 +2159,8 @@
      "state": "VI",
      "stamp_state": "VI",
      "designation": "National Historical Park and Ecological Preserve",
+     "lat": 17.77908602,
+     "lon": -64.75519348,
      "visits": []
     },
     {
@@ -1741,6 +2169,8 @@
      "state": "PR",
      "stamp_state": "PR",
      "designation": "National Historic Site",
+     "lat": 18.46873857,
+     "lon": -66.11848623,
      "visits": []
     },
     {
@@ -1749,6 +2179,8 @@
      "state": "AL",
      "stamp_state": "AL",
      "designation": "National Historic Trail",
+     "lat": 32.27082092,
+     "lon": -86.72823702,
      "visits": []
     },
     {
@@ -1757,6 +2189,8 @@
      "state": "TN,MS",
      "stamp_state": "TN",
      "designation": "National Military Park",
+     "lat": 35.13850907,
+     "lon": -88.3421072,
      "visits": []
     },
     {
@@ -1765,6 +2199,8 @@
      "state": "TN",
      "stamp_state": "TN",
      "designation": "National Battlefield",
+     "lat": 35.87608652,
+     "lon": -86.43078399,
      "visits": []
     },
     {
@@ -1773,6 +2209,8 @@
      "state": "FL",
      "stamp_state": "FL",
      "designation": "Ecological & Historic Preserve",
+     "lat": 30.47251894,
+     "lon": -81.49950104,
      "visits": []
     },
     {
@@ -1781,6 +2219,8 @@
      "state": "AL,AR,GA,IL,KY,MO,NC,OK,TN",
      "stamp_state": "AL",
      "designation": "National Historic Trail",
+     "lat": 36.0530021046,
+     "lon": -89.6761041963,
      "visits": []
     },
     {
@@ -1789,6 +2229,8 @@
      "state": "MS",
      "stamp_state": "MS",
      "designation": "National Battlefield",
+     "lat": 34.25557705,
+     "lon": -88.73708623,
      "visits": []
     },
     {
@@ -1797,6 +2239,8 @@
      "state": "AL",
      "stamp_state": "AL",
      "designation": "National Historic Site",
+     "lat": 32.45538671,
+     "lon": -85.67983321,
      "visits": []
     },
     {
@@ -1805,6 +2249,8 @@
      "state": "AL",
      "stamp_state": "AL",
      "designation": "National Historic Site",
+     "lat": 32.42962115,
+     "lon": -85.70488498,
      "visits": []
     },
     {
@@ -1813,6 +2259,8 @@
      "state": "MS,LA",
      "stamp_state": "MS",
      "designation": "National Military Park",
+     "lat": 32.3621286,
+     "lon": -90.85030186,
      "visits": []
     },
     {
@@ -1821,6 +2269,8 @@
      "state": "VI",
      "stamp_state": "VI",
      "designation": "National Monument",
+     "lat": 18.28996918,
+     "lon": -64.70683395,
      "visits": []
     },
     {
@@ -1829,6 +2279,8 @@
      "state": "VI",
      "stamp_state": "VI",
      "designation": "National Park",
+     "lat": 18.34279656,
+     "lon": -64.74194451,
      "visits": []
     },
     {
@@ -1837,6 +2289,8 @@
      "state": "NC",
      "stamp_state": "NC",
      "designation": "National Memorial",
+     "lat": 36.01637713,
+     "lon": -75.66997163,
      "visits": []
     }
    ]
@@ -1851,6 +2305,8 @@
      "state": "NE",
      "stamp_state": "NE",
      "designation": "National Monument",
+     "lat": 42.42170419,
+     "lon": -103.753886,
      "visits": []
     },
     {
@@ -1859,6 +2315,8 @@
      "state": "WI",
      "stamp_state": "WI",
      "designation": "National Lakeshore",
+     "lat": 46.96240467,
+     "lon": -90.66045665,
      "visits": []
     },
     {
@@ -1867,6 +2325,8 @@
      "state": "AR",
      "stamp_state": "AR",
      "designation": "National Memorial",
+     "lat": 34.00389998,
+     "lon": -91.30837178,
      "visits": []
     },
     {
@@ -1875,6 +2335,8 @@
      "state": "SD",
      "stamp_state": "SD",
      "designation": "National Park",
+     "lat": 43.68584846,
+     "lon": -102.482942,
      "visits": []
     },
     {
@@ -1883,6 +2345,8 @@
      "state": "KS",
      "stamp_state": "KS",
      "designation": "National Historical Park",
+     "lat": 39.03787665,
+     "lon": -95.67614437,
      "visits": []
     },
     {
@@ -1891,6 +2355,8 @@
      "state": "AR",
      "stamp_state": "AR",
      "designation": "National River",
+     "lat": 36.04116481,
+     "lon": -92.90761584,
      "visits": []
     },
     {
@@ -1899,6 +2365,8 @@
      "state": "MO,AR,OK,TX,NM,AZ,CA",
      "stamp_state": "MO",
      "designation": "National Historic Trail",
+     "lat": 32.2768237589,
+     "lon": -106.796583304,
      "visits": []
     },
     {
@@ -1907,6 +2375,8 @@
      "state": "OH",
      "stamp_state": "OH",
      "designation": "National Monument",
+     "lat": 39.70817829,
+     "lon": -83.89328575,
      "visits": []
     },
     {
@@ -1915,6 +2385,8 @@
      "state": "OH",
      "stamp_state": "OH",
      "designation": "National Park",
+     "lat": 41.26093905,
+     "lon": -81.57116722,
      "visits": []
     },
     {
@@ -1923,6 +2395,8 @@
      "state": "OH",
      "stamp_state": "OH",
      "designation": "National Historical Park",
+     "lat": 39.78944467,
+     "lon": -84.10442045,
      "visits": []
     },
     {
@@ -1931,6 +2405,8 @@
      "state": "IA",
      "stamp_state": "IA",
      "designation": "National Monument",
+     "lat": 43.08095081,
+     "lon": -91.19687517,
      "visits": []
     },
     {
@@ -1939,6 +2415,8 @@
      "state": "IL,MS",
      "stamp_state": "IL",
      "designation": "National Monument",
+     "lat": 33.9711,
+     "lon": -90.3698,
      "visits": []
     },
     {
@@ -1947,6 +2425,8 @@
      "state": "OH",
      "stamp_state": "OH",
      "designation": "National Historic Site",
+     "lat": 40.79689857,
+     "lon": -81.37579869,
      "visits": []
     },
     {
@@ -1955,6 +2435,8 @@
      "state": "KS",
      "stamp_state": "KS",
      "designation": "National Historic Site",
+     "lat": 38.18047491,
+     "lon": -99.21836664,
      "visits": []
     },
     {
@@ -1963,6 +2445,8 @@
      "state": "KS",
      "stamp_state": "KS",
      "designation": "National Historic Site",
+     "lat": 37.84358849,
+     "lon": -94.70429174,
      "visits": []
     },
     {
@@ -1971,6 +2455,8 @@
      "state": "AR,OK",
      "stamp_state": "AR",
      "designation": "National Historic Site",
+     "lat": 35.38834746,
+     "lon": -94.43129079,
      "visits": []
     },
     {
@@ -1979,6 +2465,8 @@
      "state": "MO",
      "stamp_state": "MO",
      "designation": "National Park",
+     "lat": 38.6258069,
+     "lon": -90.1892508,
      "visits": []
     },
     {
@@ -1987,6 +2475,8 @@
      "state": "IN",
      "stamp_state": "IN",
      "designation": "National Historical Park",
+     "lat": 38.67912659,
+     "lon": -87.53545212,
      "visits": []
     },
     {
@@ -1995,6 +2485,8 @@
      "state": "MO",
      "stamp_state": "MO",
      "designation": "National Monument",
+     "lat": 36.9871322,
+     "lon": -94.35522737,
      "visits": []
     },
     {
@@ -2003,6 +2495,8 @@
      "state": "MN",
      "stamp_state": "MN",
      "designation": "National Monument",
+     "lat": 47.99294217,
+     "lon": -89.75573031,
      "visits": []
     },
     {
@@ -2011,6 +2505,8 @@
      "state": "MO",
      "stamp_state": "MO",
      "designation": "National Historic Site",
+     "lat": 38.92711967,
+     "lon": -94.5162488,
      "visits": []
     },
     {
@@ -2019,6 +2515,8 @@
      "state": "IA",
      "stamp_state": "IA",
      "designation": "National Historic Site",
+     "lat": 41.66793558,
+     "lon": -91.35232139,
      "visits": []
     },
     {
@@ -2027,6 +2525,8 @@
      "state": "NE",
      "stamp_state": "NE",
      "designation": "National Historical Park",
+     "lat": 40.28802381,
+     "lon": -96.83387781,
      "visits": []
     },
     {
@@ -2035,6 +2535,8 @@
      "state": "OH",
      "stamp_state": "OH",
      "designation": "National Historical Park",
+     "lat": 39.31594374,
+     "lon": -83.08049456,
      "visits": []
     },
     {
@@ -2043,6 +2545,8 @@
      "state": "AR",
      "stamp_state": "AR",
      "designation": "National Park",
+     "lat": 34.52414366,
+     "lon": -93.06332936,
      "visits": []
     },
     {
@@ -2051,6 +2555,8 @@
      "state": "WI",
      "stamp_state": "WI",
      "designation": "National Scenic Trail",
+     "lat": 43.9895697794,
+     "lon": -89.5612021706,
      "visits": []
     },
     {
@@ -2059,6 +2565,8 @@
      "state": "IN",
      "stamp_state": "IN",
      "designation": "National Park",
+     "lat": 41.63765525,
+     "lon": -87.09647445,
      "visits": []
     },
     {
@@ -2067,6 +2575,8 @@
      "state": "MI",
      "stamp_state": "MI",
      "designation": "National Park",
+     "lat": 48.01145819,
+     "lon": -88.82780657,
      "visits": []
     },
     {
@@ -2075,6 +2585,8 @@
      "state": "OH",
      "stamp_state": "OH",
      "designation": "National Historic Site",
+     "lat": 41.66486549,
+     "lon": -81.35086557,
      "visits": []
     },
     {
@@ -2083,6 +2595,8 @@
      "state": "SD",
      "stamp_state": "SD",
      "designation": "National Monument",
+     "lat": 43.73102945,
+     "lon": -103.829994,
      "visits": []
     },
     {
@@ -2091,6 +2605,8 @@
      "state": "MI",
      "stamp_state": "MI",
      "designation": "National Historical Park",
+     "lat": 47.1792308,
+     "lon": -88.52275344,
      "visits": []
     },
     {
@@ -2099,6 +2615,8 @@
      "state": "ND",
      "stamp_state": "ND",
      "designation": "National Historic Site",
+     "lat": 47.3540219,
+     "lon": -101.3860533,
      "visits": []
     },
     {
@@ -2107,6 +2625,8 @@
      "state": "IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV",
      "stamp_state": "IA",
      "designation": "National Historic Trail",
+     "lat": 41.2646141052,
+     "lon": -95.9245147705,
      "visits": []
     },
     {
@@ -2115,6 +2635,8 @@
      "state": "IN",
      "stamp_state": "IN",
      "designation": "National Memorial",
+     "lat": 38.11817004,
+     "lon": -86.99656861,
      "visits": []
     },
     {
@@ -2123,6 +2645,8 @@
      "state": "IL",
      "stamp_state": "IL",
      "designation": "National Historic Site",
+     "lat": 39.79715642,
+     "lon": -89.64513397,
      "visits": []
     },
     {
@@ -2131,6 +2655,8 @@
      "state": "AR",
      "stamp_state": "AR",
      "designation": "National Historic Site",
+     "lat": 34.7369465,
+     "lon": -92.29987899,
      "visits": []
     },
     {
@@ -2139,6 +2665,8 @@
      "state": "SD",
      "stamp_state": "SD",
      "designation": "National Historic Site",
+     "lat": 43.89558013,
+     "lon": -102.0272131,
      "visits": []
     },
     {
@@ -2147,6 +2675,8 @@
      "state": "MN",
      "stamp_state": "MN",
      "designation": "National River & Recreation Area",
+     "lat": 44.942487,
+     "lon": -93.098712,
      "visits": []
     },
     {
@@ -2155,6 +2685,8 @@
      "state": "SD,NE",
      "stamp_state": "SD",
      "designation": "National Recreational River",
+     "lat": 42.7882189,
+     "lon": -97.59077822,
      "visits": []
     },
     {
@@ -2163,6 +2695,8 @@
      "state": "IL,IA,NE,UT,WY",
      "stamp_state": "IL",
      "designation": "National Historic Trail",
+     "lat": 41.2650321741,
+     "lon": -101.84083756,
      "visits": []
     },
     {
@@ -2171,6 +2705,8 @@
      "state": "SD",
      "stamp_state": "SD",
      "designation": "National Memorial",
+     "lat": 43.88037021,
+     "lon": -103.4525186,
      "visits": []
     },
     {
@@ -2179,6 +2715,8 @@
      "state": "IL",
      "stamp_state": "IL",
      "designation": "National Historic Site",
+     "lat": 39.69803,
+     "lon": -90.96131,
      "visits": []
     },
     {
@@ -2187,6 +2725,8 @@
      "state": "KS",
      "stamp_state": "KS",
      "designation": "National Historic Site",
+     "lat": 39.39167606,
+     "lon": -99.61680329,
      "visits": []
     },
     {
@@ -2195,6 +2735,8 @@
      "state": "NE",
      "stamp_state": "NE",
      "designation": "National Scenic River",
+     "lat": 42.79413083,
+     "lon": -99.91870646,
      "visits": []
     },
     {
@@ -2203,6 +2745,8 @@
      "state": "MI,MN,ND,NY,OH,PA,VT,WI",
      "stamp_state": "MI",
      "designation": "National Scenic Trail",
+     "lat": 46.334400743,
+     "lon": -90.8165630499,
      "visits": []
     },
     {
@@ -2211,6 +2755,8 @@
      "state": "MO",
      "stamp_state": "MO",
      "designation": "National Scenic Riverways",
+     "lat": 37.13968894,
+     "lon": -91.25709817,
      "visits": []
     },
     {
@@ -2219,6 +2765,8 @@
      "state": "AR",
      "stamp_state": "AR",
      "designation": "National Military Park",
+     "lat": 36.45438033,
+     "lon": -94.03468357,
      "visits": []
     },
     {
@@ -2227,6 +2775,8 @@
      "state": "OH",
      "stamp_state": "OH",
      "designation": "Memorial",
+     "lat": 41.65449782,
+     "lon": -82.8115794,
      "visits": []
     },
     {
@@ -2235,6 +2785,8 @@
      "state": "MI",
      "stamp_state": "MI",
      "designation": "National Lakeshore",
+     "lat": 46.56435642,
+     "lon": -86.31628733,
      "visits": []
     },
     {
@@ -2243,6 +2795,8 @@
      "state": "MN",
      "stamp_state": "MN",
      "designation": "National Monument",
+     "lat": 44.01351958,
+     "lon": -96.32475523,
      "visits": []
     },
     {
@@ -2251,6 +2805,8 @@
      "state": "AR",
      "stamp_state": "AR",
      "designation": "National Historic Site",
+     "lat": 33.66758356,
+     "lon": -93.59641868,
      "visits": []
     },
     {
@@ -2259,6 +2815,8 @@
      "state": "IL",
      "stamp_state": "IL",
      "designation": "National Historical Park",
+     "lat": 41.69429163,
+     "lon": -87.60873824,
      "visits": []
     },
     {
@@ -2267,6 +2825,8 @@
      "state": "MI",
      "stamp_state": "MI",
      "designation": "National Battlefield Park",
+     "lat": 41.91291085,
+     "lon": -83.37620464,
      "visits": []
     },
     {
@@ -2275,6 +2835,8 @@
      "state": "WI,MN",
      "stamp_state": "WI",
      "designation": "National Scenic Riverway",
+     "lat": 45.70019235,
+     "lon": -92.36126685,
      "visits": []
     },
     {
@@ -2283,6 +2845,8 @@
      "state": "NE",
      "stamp_state": "NE",
      "designation": "National Monument",
+     "lat": 41.83464193,
+     "lon": -103.7071351,
      "visits": []
     },
     {
@@ -2291,6 +2855,8 @@
      "state": "MI",
      "stamp_state": "MI",
      "designation": "National Lakeshore",
+     "lat": 44.92844962,
+     "lon": -86.02706591,
      "visits": []
     },
     {
@@ -2299,6 +2865,8 @@
      "state": "IL",
      "stamp_state": "IL",
      "designation": "National Monument",
+     "lat": 39.8027,
+     "lon": -89.6422,
      "visits": []
     },
     {
@@ -2307,6 +2875,8 @@
      "state": "MO",
      "stamp_state": "MO",
      "designation": "National Historical Park",
+     "lat": 37.9792171421,
+     "lon": -90.0432157516,
      "visits": []
     },
     {
@@ -2315,6 +2885,8 @@
      "state": "KS",
      "stamp_state": "KS",
      "designation": "National Preserve",
+     "lat": 38.44023613,
+     "lon": -96.5670822,
      "visits": []
     },
     {
@@ -2323,6 +2895,8 @@
      "state": "ND",
      "stamp_state": "ND",
      "designation": "National Park",
+     "lat": 47.17777274,
+     "lon": -103.4300083,
      "visits": []
     },
     {
@@ -2331,6 +2905,8 @@
      "state": "MO",
      "stamp_state": "MO",
      "designation": "National Historic Site",
+     "lat": 38.55182374,
+     "lon": -90.35169255,
      "visits": []
     },
     {
@@ -2339,6 +2915,8 @@
      "state": "MN",
      "stamp_state": "MN",
      "designation": "National Park",
+     "lat": 48.48370609,
+     "lon": -92.8382913,
      "visits": []
     },
     {
@@ -2347,6 +2925,8 @@
      "state": "OH",
      "stamp_state": "OH",
      "designation": "National Historic Site",
+     "lat": 39.11970352,
+     "lon": -84.50758951,
      "visits": []
     },
     {
@@ -2355,6 +2935,8 @@
      "state": "MO",
      "stamp_state": "MO",
      "designation": "National Battlefield",
+     "lat": 37.1000127,
+     "lon": -93.40986704,
      "visits": []
     },
     {
@@ -2363,6 +2945,8 @@
      "state": "SD",
      "stamp_state": "SD",
      "designation": "National Park",
+     "lat": 43.58012365,
+     "lon": -103.4394709,
      "visits": []
     }
    ]
@@ -2377,6 +2961,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Monument",
+     "lat": 35.5819662,
+     "lon": -101.6717008,
      "visits": []
     },
     {
@@ -2385,6 +2971,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Recreation Area",
+     "lat": 29.53539777,
+     "lon": -101.075821,
      "visits": []
     },
     {
@@ -2393,6 +2981,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Monument",
+     "lat": 36.83682216,
+     "lon": -107.9999245,
      "visits": []
     },
     {
@@ -2401,6 +2991,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Monument",
+     "lat": 35.77898596,
+     "lon": -106.3317124,
      "visits": []
     },
     {
@@ -2409,6 +3001,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Park",
+     "lat": 29.29817767,
+     "lon": -103.2297897,
      "visits": []
     },
     {
@@ -2417,6 +3011,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Preserve",
+     "lat": 30.457983431,
+     "lon": -94.386742115,
      "visits": []
     },
     {
@@ -2425,6 +3021,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Historic Site",
+     "lat": 30.3057966497568,
+     "lon": -104.022553112857,
      "visits": []
     },
     {
@@ -2433,6 +3031,8 @@
      "state": "LA",
      "stamp_state": "LA",
      "designation": "National Historical Park",
+     "lat": 31.65408447,
+     "lon": -93.00131977,
      "visits": []
     },
     {
@@ -2441,6 +3041,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Monument",
+     "lat": 36.78171096,
+     "lon": -103.9710427,
      "visits": []
     },
     {
@@ -2449,6 +3051,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Park",
+     "lat": 32.14089463,
+     "lon": -104.5529688,
      "visits": []
     },
     {
@@ -2457,6 +3061,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Historical Park",
+     "lat": 36.03963414,
+     "lon": -107.9560076,
      "visits": []
     },
     {
@@ -2465,6 +3071,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Memorial",
+     "lat": 31.76729634,
+     "lon": -106.4544011,
      "visits": []
     },
     {
@@ -2473,6 +3081,8 @@
      "state": "OK",
      "stamp_state": "OK",
      "designation": "National Recreation Area",
+     "lat": 34.46050507,
+     "lon": -97.00715669,
      "visits": []
     },
     {
@@ -2481,6 +3091,8 @@
      "state": "NM,TX",
      "stamp_state": "NM",
      "designation": "National Historic Trail",
+     "lat": 33.7990672546,
+     "lon": -106.866386195,
      "visits": []
     },
     {
@@ -2489,6 +3101,8 @@
      "state": "TX,LA",
      "stamp_state": "TX",
      "designation": "National Historic Trail",
+     "lat": 30.0922964581,
+     "lon": -97.3397666725,
      "visits": []
     },
     {
@@ -2497,6 +3111,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Monument",
+     "lat": 34.88422799,
+     "lon": -107.9950948,
      "visits": []
     },
     {
@@ -2505,6 +3121,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Monument",
+     "lat": 35.03895916,
+     "lon": -108.3463984,
      "visits": []
     },
     {
@@ -2513,6 +3131,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Historic Site",
+     "lat": 30.59930381,
+     "lon": -103.8961904,
      "visits": []
     },
     {
@@ -2521,6 +3141,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Monument",
+     "lat": 35.90700629,
+     "lon": -105.0145185,
      "visits": []
     },
     {
@@ -2529,6 +3151,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Monument",
+     "lat": 33.22715258,
+     "lon": -108.2706711,
      "visits": []
     },
     {
@@ -2537,6 +3161,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Park",
+     "lat": 31.92304462,
+     "lon": -104.885527,
      "visits": []
     },
     {
@@ -2545,6 +3171,8 @@
      "state": "LA",
      "stamp_state": "LA",
      "designation": "National Historical Park and Preserve",
+     "lat": 29.81739855,
+     "lon": -90.1402241,
      "visits": []
     },
     {
@@ -2553,6 +3181,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Recreation Area",
+     "lat": 35.61926203,
+     "lon": -101.6820066,
      "visits": []
     },
     {
@@ -2561,6 +3191,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Historical Park",
+     "lat": 30.2519655,
+     "lon": -98.60692433,
      "visits": []
     },
     {
@@ -2569,6 +3201,8 @@
      "state": "NM,WA,TN",
      "stamp_state": "NM",
      "designation": "National Historical Park",
+     "lat": 35.88096,
+     "lon": -106.30214,
      "visits": []
     },
     {
@@ -2577,6 +3211,8 @@
      "state": "LA",
      "stamp_state": "LA",
      "designation": "National Historical Park",
+     "lat": 29.96303129,
+     "lon": -90.06749669,
      "visits": []
     },
     {
@@ -2585,6 +3221,8 @@
      "state": "OK",
      "stamp_state": "OK",
      "designation": "National Memorial",
+     "lat": 35.473,
+     "lon": -97.5171,
      "visits": []
     },
     {
@@ -2593,6 +3231,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Seashore",
+     "lat": 27.05381186,
+     "lon": -97.35901135,
      "visits": []
     },
     {
@@ -2601,6 +3241,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Historical Park",
+     "lat": 26.02387351,
+     "lon": -97.46296072,
      "visits": []
     },
     {
@@ -2609,6 +3251,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Historical Park",
+     "lat": 35.54192238,
+     "lon": -105.6814684,
      "visits": []
     },
     {
@@ -2617,6 +3261,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Monument",
+     "lat": 35.13915998,
+     "lon": -106.7491456,
      "visits": []
     },
     {
@@ -2625,6 +3271,8 @@
      "state": "LA",
      "stamp_state": "LA",
      "designation": "National Monument",
+     "lat": 32.6424361,
+     "lon": -91.40829834,
      "visits": []
     },
     {
@@ -2633,6 +3281,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "Wild & Scenic River",
+     "lat": 29.881,
+     "lon": -102.3188,
      "visits": []
     },
     {
@@ -2641,6 +3291,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Monument",
+     "lat": 34.35423203,
+     "lon": -106.2050309,
      "visits": []
     },
     {
@@ -2649,6 +3301,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Historical Park",
+     "lat": 29.31262089,
+     "lon": -98.4289522,
      "visits": []
     },
     {
@@ -2657,6 +3311,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Preserve",
+     "lat": 35.91682872,
+     "lon": -106.5195724,
      "visits": []
     },
     {
@@ -2665,6 +3321,8 @@
      "state": "TX",
      "stamp_state": "TX",
      "designation": "National Monument",
+     "lat": 31.60465887,
+     "lon": -97.17606143,
      "visits": []
     },
     {
@@ -2673,6 +3331,8 @@
      "state": "OK",
      "stamp_state": "OK",
      "designation": "National Historic Site",
+     "lat": 35.62083963,
+     "lon": -99.70445143,
      "visits": []
     },
     {
@@ -2681,6 +3341,8 @@
      "state": "NM",
      "stamp_state": "NM",
      "designation": "National Park",
+     "lat": 32.77907858,
+     "lon": -106.3333461,
      "visits": []
     }
    ]
@@ -2695,6 +3357,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Historic Site",
+     "lat": 38.04962,
+     "lon": -102.32903,
      "visits": []
     },
     {
@@ -2703,6 +3367,8 @@
      "state": "UT",
      "stamp_state": "UT",
      "designation": "National Park",
+     "lat": 38.72261844,
+     "lon": -109.5863666,
      "visits": []
     },
     {
@@ -2711,6 +3377,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Historic Site",
+     "lat": 38.03977546,
+     "lon": -103.4266499,
      "visits": []
     },
     {
@@ -2719,6 +3387,8 @@
      "state": "MT",
      "stamp_state": "MT",
      "designation": "National Battlefield",
+     "lat": 45.64647324,
+     "lon": -113.6458443,
      "visits": []
     },
     {
@@ -2727,6 +3397,8 @@
      "state": "MT,WY",
      "stamp_state": "MT",
      "designation": "National Recreation Area",
+     "lat": 45.13154227,
+     "lon": -108.1443943,
      "visits": []
     },
     {
@@ -2735,6 +3407,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Park",
+     "lat": 38.57779869,
+     "lon": -107.7242756,
      "visits": []
     },
     {
@@ -2743,6 +3417,8 @@
      "state": "UT",
      "stamp_state": "UT",
      "designation": "National Park",
+     "lat": 37.58399144,
+     "lon": -112.1826689,
      "visits": []
     },
     {
@@ -2751,6 +3427,8 @@
      "state": "UT",
      "stamp_state": "UT",
      "designation": "National Park",
+     "lat": 38.24555783,
+     "lon": -109.8801624,
      "visits": []
     },
     {
@@ -2759,6 +3437,8 @@
      "state": "UT",
      "stamp_state": "UT",
      "designation": "National Park",
+     "lat": 38.2821653131,
+     "lon": -111.247048378,
      "visits": []
     },
     {
@@ -2767,6 +3447,8 @@
      "state": "UT",
      "stamp_state": "UT",
      "designation": "National Monument",
+     "lat": 37.63545562,
+     "lon": -112.845268,
      "visits": []
     },
     {
@@ -2775,6 +3457,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Monument",
+     "lat": 39.05045016,
+     "lon": -108.6920709,
      "visits": []
     },
     {
@@ -2783,6 +3467,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Recreation Area",
+     "lat": 38.46584558,
+     "lon": -107.3303371,
      "visits": []
     },
     {
@@ -2791,6 +3477,8 @@
      "state": "WY",
      "stamp_state": "WY",
      "designation": "National Monument",
+     "lat": 44.59064655,
+     "lon": -104.7156341,
      "visits": []
     },
     {
@@ -2799,6 +3487,8 @@
      "state": "CO,UT",
      "stamp_state": "CO",
      "designation": "National Monument",
+     "lat": 40.50739742,
+     "lon": -108.9333714,
      "visits": []
     },
     {
@@ -2807,6 +3497,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Monument",
+     "lat": 38.91260586,
+     "lon": -105.2803396,
      "visits": []
     },
     {
@@ -2815,6 +3507,8 @@
      "state": "WY",
      "stamp_state": "WY",
      "designation": "National Historic Site",
+     "lat": 42.20301694,
+     "lon": -104.5459112,
      "visits": []
     },
     {
@@ -2823,6 +3517,8 @@
      "state": "MT,ND",
      "stamp_state": "MT",
      "designation": "National Historic Site",
+     "lat": 48.00075828,
+     "lon": -104.0375238,
      "visits": []
     },
     {
@@ -2831,6 +3527,8 @@
      "state": "WY",
      "stamp_state": "WY",
      "designation": "National Monument",
+     "lat": 41.85635223,
+     "lon": -110.7624754,
      "visits": []
     },
     {
@@ -2839,6 +3537,8 @@
      "state": "MT",
      "stamp_state": "MT",
      "designation": "National Park",
+     "lat": 48.68414678,
+     "lon": -113.8009306,
      "visits": []
     },
     {
@@ -2847,6 +3547,8 @@
      "state": "UT",
      "stamp_state": "UT",
      "designation": "National Historical Park",
+     "lat": 41.61947508,
+     "lon": -112.5242653,
      "visits": []
     },
     {
@@ -2855,6 +3557,8 @@
      "state": "WY",
      "stamp_state": "WY",
      "designation": "National Park",
+     "lat": 43.81853565,
+     "lon": -110.7054666,
      "visits": []
     },
     {
@@ -2863,6 +3567,8 @@
      "state": "MT",
      "stamp_state": "MT",
      "designation": "National Historic Site",
+     "lat": 46.41358923,
+     "lon": -112.7467024,
      "visits": []
     },
     {
@@ -2871,6 +3577,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Park & Preserve",
+     "lat": 37.79256812,
+     "lon": -105.5919572,
      "visits": []
     },
     {
@@ -2879,6 +3587,8 @@
      "state": "CO,UT",
      "stamp_state": "CO",
      "designation": "National Monument",
+     "lat": 37.39134092,
+     "lon": -109.0047977,
      "visits": []
     },
     {
@@ -2887,6 +3597,8 @@
      "state": "MT",
      "stamp_state": "MT",
      "designation": "National Monument",
+     "lat": 45.55633048,
+     "lon": -107.4183614,
      "visits": []
     },
     {
@@ -2895,6 +3607,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Park",
+     "lat": 37.23908345,
+     "lon": -108.4624032,
      "visits": []
     },
     {
@@ -2903,6 +3617,8 @@
      "state": "UT",
      "stamp_state": "UT",
      "designation": "National Monument",
+     "lat": 37.6045329,
+     "lon": -110.0022436,
      "visits": []
     },
     {
@@ -2911,6 +3627,8 @@
      "state": "UT",
      "stamp_state": "UT",
      "designation": "National Monument",
+     "lat": 37.0779,
+     "lon": -110.9655,
      "visits": []
     },
     {
@@ -2919,6 +3637,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Park",
+     "lat": 40.3556924,
+     "lon": -105.6972879,
      "visits": []
     },
     {
@@ -2927,6 +3647,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Historic Site",
+     "lat": 38.56414189,
+     "lon": -102.5169542,
      "visits": []
     },
     {
@@ -2935,6 +3657,8 @@
      "state": "CO,KS,MO,NM,OK",
      "stamp_state": "CO",
      "designation": "National Historic Trail",
+     "lat": 37.7276522226,
+     "lon": -99.921969227,
      "visits": []
     },
     {
@@ -2943,6 +3667,8 @@
      "state": "UT",
      "stamp_state": "UT",
      "designation": "National Monument",
+     "lat": 40.44039719,
+     "lon": -111.7093944,
      "visits": []
     },
     {
@@ -2951,6 +3677,8 @@
      "state": "ID,MT,WY",
      "stamp_state": "WY",
      "designation": "National Park",
+     "lat": 44.59824417,
+     "lon": -110.5471695,
      "visits": []
     },
     {
@@ -2959,6 +3687,8 @@
      "state": "CO",
      "stamp_state": "CO",
      "designation": "National Monument",
+     "lat": 37.24778944,
+     "lon": -108.6861274,
      "visits": []
     },
     {
@@ -2967,6 +3697,8 @@
      "state": "UT",
      "stamp_state": "UT",
      "designation": "National Park",
+     "lat": 37.29839254,
+     "lon": -113.0265138,
      "visits": []
     }
    ]
@@ -2981,6 +3713,8 @@
      "state": "HI",
      "stamp_state": "HI",
      "designation": "National Historic Trail",
+     "lat": 19.144668109,
+     "lon": -155.890734294,
      "visits": []
     },
     {
@@ -2989,6 +3723,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "Affiliated Area",
+     "lat": 37.82676234,
+     "lon": -122.4230206,
      "visits": []
     },
     {
@@ -2997,6 +3733,8 @@
      "state": "MP",
      "stamp_state": "MP",
      "designation": "Park",
+     "lat": 15.21680033,
+     "lon": 145.7231096,
      "visits": []
     },
     {
@@ -3005,6 +3743,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Monument",
+     "lat": 32.6722503,
+     "lon": -117.2415985,
      "visits": []
     },
     {
@@ -3013,6 +3753,8 @@
      "state": "CA,CO,ID,KS,MO,NE,NV,OR,UT,WY",
      "stamp_state": "CA",
      "designation": "National Historic Trail",
+     "lat": 42.3999643979,
+     "lon": -108.702415369,
      "visits": []
     },
     {
@@ -3021,6 +3763,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 36.14319567,
+     "lon": -109.3388303,
      "visits": []
     },
     {
@@ -3029,6 +3773,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 32.99702582,
+     "lon": -111.5325383,
      "visits": []
     },
     {
@@ -3037,6 +3783,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Monument",
+     "lat": 35.29156348,
+     "lon": -115.0935606,
      "visits": []
     },
     {
@@ -3045,6 +3793,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Park",
+     "lat": 33.98680093,
+     "lon": -119.9112735,
      "visits": []
     },
     {
@@ -3053,6 +3803,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Park",
+     "lat": 32.01214618,
+     "lon": -109.341607,
      "visits": []
     },
     {
@@ -3061,6 +3813,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Memorial",
+     "lat": 31.34900397,
+     "lon": -110.2561574,
      "visits": []
     },
     {
@@ -3069,6 +3823,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Monument",
+     "lat": 35.22729389,
+     "lon": -118.5615781,
      "visits": []
     },
     {
@@ -3077,6 +3833,8 @@
      "state": "CA,NV",
      "stamp_state": "CA",
      "designation": "National Park",
+     "lat": 36.48753731,
+     "lon": -117.134395,
      "visits": []
     },
     {
@@ -3085,6 +3843,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Monument",
+     "lat": 37.6152564,
+     "lon": -119.0873903,
      "visits": []
     },
     {
@@ -3093,6 +3853,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Historic Site",
+     "lat": 37.82604456,
+     "lon": -122.0271566,
      "visits": []
     },
     {
@@ -3101,6 +3863,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Historic Site",
+     "lat": 32.14925942,
+     "lon": -109.451132,
      "visits": []
     },
     {
@@ -3109,6 +3873,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Historic Site",
+     "lat": 37.80837439,
+     "lon": -122.473747,
      "visits": []
     },
     {
@@ -3117,6 +3883,8 @@
      "state": "AZ,UT",
      "stamp_state": "AZ",
      "designation": "National Recreation Area",
+     "lat": 36.9357464677,
+     "lon": -111.485594268,
      "visits": []
     },
     {
@@ -3125,6 +3893,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Recreation Area",
+     "lat": 37.85982543,
+     "lon": -122.6007386,
      "visits": []
     },
     {
@@ -3133,6 +3903,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Park",
+     "lat": 36.0001165336,
+     "lon": -112.121516363,
      "visits": []
     },
     {
@@ -3141,6 +3913,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 36.41535465,
+     "lon": -113.6682797,
      "visits": []
     },
     {
@@ -3149,6 +3923,8 @@
      "state": "NV",
      "stamp_state": "NV",
      "designation": "National Park",
+     "lat": 38.94617378,
+     "lon": -114.2579782,
      "visits": []
     },
     {
@@ -3157,6 +3933,8 @@
      "state": "HI",
      "stamp_state": "HI",
      "designation": "National Park",
+     "lat": 20.70693015,
+     "lon": -156.1591775,
      "visits": []
     },
     {
@@ -3165,6 +3943,8 @@
      "state": "HI",
      "stamp_state": "HI",
      "designation": "National Park",
+     "lat": 19.3355036,
+     "lon": -155.4700257,
      "visits": []
     },
     {
@@ -3173,6 +3953,8 @@
      "state": "HI",
      "stamp_state": "HI",
      "designation": "National Historic Site",
+     "lat": 21.38817536,
+     "lon": -158.0574991,
      "visits": []
     },
     {
@@ -3181,6 +3963,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Historic Site",
+     "lat": 35.70727324,
+     "lon": -109.5599515,
      "visits": []
     },
     {
@@ -3189,6 +3973,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Historic Site",
+     "lat": 37.9828422,
+     "lon": -122.1326097,
      "visits": []
     },
     {
@@ -3197,6 +3983,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Park",
+     "lat": 33.91418525,
+     "lon": -115.8398125,
      "visits": []
     },
     {
@@ -3205,6 +3993,8 @@
      "state": "AZ,CA",
      "stamp_state": "AZ",
      "designation": "National Historic Trail",
+     "lat": 33.8743390994,
+     "lon": -117.224179857,
      "visits": []
     },
     {
@@ -3213,6 +4003,8 @@
      "state": "HI",
      "stamp_state": "HI",
      "designation": "National Historical Park",
+     "lat": 21.1731108,
+     "lon": -156.9511609,
      "visits": []
     },
     {
@@ -3221,6 +4013,8 @@
      "state": "HI",
      "stamp_state": "HI",
      "designation": "National Historical Park",
+     "lat": 19.68083237,
+     "lon": -156.0306932,
      "visits": []
     },
     {
@@ -3229,6 +4023,8 @@
      "state": "AZ,NV",
      "stamp_state": "AZ",
      "designation": "National Recreation Area",
+     "lat": 35.96622528,
+     "lon": -114.3469067,
      "visits": []
     },
     {
@@ -3237,6 +4033,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Park",
+     "lat": 40.49354575,
+     "lon": -121.4075993,
      "visits": []
     },
     {
@@ -3245,6 +4043,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Monument",
+     "lat": 41.75915823,
+     "lon": -121.5172189,
      "visits": []
     },
     {
@@ -3253,6 +4053,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Historic Site",
+     "lat": 36.72559195,
+     "lon": -118.1547177,
      "visits": []
     },
     {
@@ -3261,6 +4063,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Preserve",
+     "lat": 35.12485941,
+     "lon": -115.5168258,
      "visits": []
     },
     {
@@ -3269,6 +4073,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 34.62237771,
+     "lon": -111.8147857,
      "visits": []
     },
     {
@@ -3277,6 +4083,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Monument",
+     "lat": 37.89658027,
+     "lon": -122.5808047,
      "visits": []
     },
     {
@@ -3285,6 +4093,8 @@
      "state": "AS",
      "stamp_state": "AS",
      "designation": "Affiliated Area",
+     "lat": -14.22865935,
+     "lon": -169.8503777,
      "visits": []
     },
     {
@@ -3293,6 +4103,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 36.71755643,
+     "lon": -110.5504015,
      "visits": []
     },
     {
@@ -3301,6 +4113,8 @@
      "state": "AZ,CA,CO,NV,NM,UT",
      "stamp_state": "AZ",
      "designation": "National Historic Trail",
+     "lat": 37.0791782514,
+     "lon": -112.114693431,
      "visits": []
     },
     {
@@ -3309,6 +4123,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 32.03585543,
+     "lon": -112.8573314,
      "visits": []
     },
     {
@@ -3317,6 +4133,8 @@
      "state": "HI",
      "stamp_state": "HI",
      "designation": "National Memorial",
+     "lat": 21.3670699388,
+     "lon": -157.938578898,
      "visits": []
     },
     {
@@ -3325,6 +4143,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Park",
+     "lat": 34.98387664,
+     "lon": -109.7877678,
      "visits": []
     },
     {
@@ -3333,6 +4153,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Park",
+     "lat": 36.49029208,
+     "lon": -121.1813607,
      "visits": []
     },
     {
@@ -3341,6 +4163,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 36.86282666,
+     "lon": -112.7398567,
      "visits": []
     },
     {
@@ -3349,6 +4173,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Seashore",
+     "lat": 38.05511241,
+     "lon": -122.8797804,
      "visits": []
     },
     {
@@ -3357,6 +4183,8 @@
      "state": "CA,CO,KS,MO,NE,NV,UT,WY",
      "stamp_state": "CA",
      "designation": "National Historic Trail",
+     "lat": 42.2365761128,
+     "lon": -109.266148417,
      "visits": []
     },
     {
@@ -3365,6 +4193,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Memorial",
+     "lat": 38.05685472,
+     "lon": -122.0301603,
      "visits": []
     },
     {
@@ -3373,6 +4203,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "Affiliated Area",
+     "lat": 37.797,
+     "lon": -122.4671,
      "visits": []
     },
     {
@@ -3381,6 +4213,8 @@
      "state": "HI",
      "stamp_state": "HI",
      "designation": "National Historical Park",
+     "lat": 19.41268627,
+     "lon": -155.9008789,
      "visits": []
     },
     {
@@ -3389,6 +4223,8 @@
      "state": "HI",
      "stamp_state": "HI",
      "designation": "National Historic Site",
+     "lat": 20.02772186,
+     "lon": -155.8211629,
      "visits": []
     },
     {
@@ -3397,6 +4233,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National and State Parks",
+     "lat": 41.37237268,
+     "lon": -124.0318129,
      "visits": []
     },
     {
@@ -3405,6 +4243,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Historical Park",
+     "lat": 37.90999027,
+     "lon": -122.360156,
      "visits": []
     },
     {
@@ -3413,6 +4253,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Park",
+     "lat": 32.20909636,
+     "lon": -110.7574974,
      "visits": []
     },
     {
@@ -3421,6 +4263,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Historical Park",
+     "lat": 37.81005871,
+     "lon": -122.4244415,
      "visits": []
     },
     {
@@ -3429,6 +4273,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Recreation Area",
+     "lat": 34.09777606,
+     "lon": -118.7708619,
      "visits": []
     },
     {
@@ -3437,6 +4283,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Parks",
+     "lat": 36.71277299,
+     "lon": -118.587429,
      "visits": []
     },
     {
@@ -3445,6 +4293,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 35.37114323,
+     "lon": -111.510376,
      "visits": []
     },
     {
@@ -3453,6 +4303,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 33.64842945,
+     "lon": -111.1135627,
      "visits": []
     },
     {
@@ -3461,6 +4313,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Monument",
+     "lat": 41.88727902,
+     "lon": -121.3744818,
      "visits": []
     },
     {
@@ -3469,6 +4323,8 @@
      "state": "NV",
      "stamp_state": "NV",
      "designation": "National Monument",
+     "lat": 36.3893217,
+     "lon": -115.3202223,
      "visits": []
     },
     {
@@ -3477,6 +4333,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Historical Park",
+     "lat": 31.567824,
+     "lon": -111.051223,
      "visits": []
     },
     {
@@ -3485,6 +4343,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 34.77296377,
+     "lon": -112.0279069,
      "visits": []
     },
     {
@@ -3493,6 +4353,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 35.16822994,
+     "lon": -111.5024239,
      "visits": []
     },
     {
@@ -3501,6 +4363,8 @@
      "state": "GU",
      "stamp_state": "GU",
      "designation": "National Historical Park",
+     "lat": 13.43795691,
+     "lon": 144.6922461,
      "visits": []
     },
     {
@@ -3509,6 +4373,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Recreation Area",
+     "lat": 40.61359941,
+     "lon": -122.6022657,
      "visits": []
     },
     {
@@ -3517,6 +4383,8 @@
      "state": "AZ",
      "stamp_state": "AZ",
      "designation": "National Monument",
+     "lat": 35.55741077,
+     "lon": -111.3957216,
      "visits": []
     },
     {
@@ -3525,6 +4393,8 @@
      "state": "CA",
      "stamp_state": "CA",
      "designation": "National Park",
+     "lat": 37.84883288,
+     "lon": -119.5571873,
      "visits": []
     }
    ]
@@ -3539,6 +4409,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "Wild River",
+     "lat": 59.05180188,
+     "lon": -156.112002,
      "visits": []
     },
     {
@@ -3547,6 +4419,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "Affiliated Area",
+     "lat": 61.2188,
+     "lon": -149.894536,
      "visits": []
     },
     {
@@ -3555,6 +4429,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Historic Area",
+     "lat": 53.9143,
+     "lon": -166.5197,
      "visits": []
     },
     {
@@ -3563,6 +4439,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Monument & Preserve",
+     "lat": 56.85317675,
+     "lon": -157.5544362,
      "visits": []
     },
     {
@@ -3571,6 +4449,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Preserve",
+     "lat": 65.96087902,
+     "lon": -164.4086432,
      "visits": []
     },
     {
@@ -3579,6 +4459,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Monument",
+     "lat": 67.41499986,
+     "lon": -163.5037786,
      "visits": []
     },
     {
@@ -3587,6 +4469,8 @@
      "state": "ID",
      "stamp_state": "ID",
      "designation": "National Reserve",
+     "lat": 42.0699024,
+     "lon": -113.7124097,
      "visits": []
     },
     {
@@ -3595,6 +4479,8 @@
      "state": "OR",
      "stamp_state": "OR",
      "designation": "National Park",
+     "lat": 42.94065854,
+     "lon": -122.1338414,
      "visits": []
     },
     {
@@ -3603,6 +4489,8 @@
      "state": "ID",
      "stamp_state": "ID",
      "designation": "National Monument & Preserve",
+     "lat": 43.20345611,
+     "lon": -113.4791609,
      "visits": []
     },
     {
@@ -3611,6 +4499,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Park & Preserve",
+     "lat": 63.29777484,
+     "lon": -151.0526568,
      "visits": []
     },
     {
@@ -3619,6 +4509,8 @@
      "state": "WA",
      "stamp_state": "WA",
      "designation": "National Historical Reserve",
+     "lat": 48.21403036,
+     "lon": -122.6877213,
      "visits": []
     },
     {
@@ -3627,6 +4519,8 @@
      "state": "OR,WA",
      "stamp_state": "OR",
      "designation": "National Historic Site",
+     "lat": 45.62234841,
+     "lon": -122.6617043,
      "visits": []
     },
     {
@@ -3635,6 +4529,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Park & Preserve",
+     "lat": 67.75961636,
+     "lon": -153.2917758,
      "visits": []
     },
     {
@@ -3643,6 +4539,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Park & Preserve",
+     "lat": 58.80086718,
+     "lon": -136.8407579,
      "visits": []
     },
     {
@@ -3651,6 +4549,8 @@
      "state": "ID",
      "stamp_state": "ID",
      "designation": "National Monument",
+     "lat": 42.79074114,
+     "lon": -114.9443074,
      "visits": []
     },
     {
@@ -3659,6 +4559,8 @@
      "state": "WA,OR,ID,MT",
      "stamp_state": "WA",
      "designation": "National Geologic Trail",
+     "lat": 46.5669309008,
+     "lon": -118.992564971,
      "visits": []
     },
     {
@@ -3667,6 +4569,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "Affiliated Area",
+     "lat": 71.29832445,
+     "lon": -156.7535863,
      "visits": []
     },
     {
@@ -3675,6 +4579,8 @@
      "state": "OR",
      "stamp_state": "OR",
      "designation": "National Monument",
+     "lat": 44.62566508,
+     "lon": -119.8811491,
      "visits": []
     },
     {
@@ -3683,6 +4589,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Park & Preserve",
+     "lat": 58.62235668,
+     "lon": -155.0126574,
      "visits": []
     },
     {
@@ -3691,6 +4599,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Park",
+     "lat": 59.81804414,
+     "lon": -150.106502,
      "visits": []
     },
     {
@@ -3699,6 +4609,8 @@
      "state": "WA",
      "stamp_state": "WA",
      "designation": "National Historical Park",
+     "lat": 47.5993663,
+     "lon": -122.3319664,
      "visits": []
     },
     {
@@ -3707,6 +4619,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Historical Park",
+     "lat": 59.61042373,
+     "lon": -135.2618535,
      "visits": []
     },
     {
@@ -3715,6 +4629,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Park",
+     "lat": 67.35631336,
+     "lon": -159.2002293,
      "visits": []
     },
     {
@@ -3723,6 +4639,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Park & Preserve",
+     "lat": 60.57405857,
+     "lon": -153.55535,
      "visits": []
     },
     {
@@ -3731,6 +4649,8 @@
      "state": "WA",
      "stamp_state": "WA",
      "designation": "National Recreation Area",
+     "lat": 48.17148735,
+     "lon": -118.3513713,
      "visits": []
     },
     {
@@ -3739,6 +4659,8 @@
      "state": "OR,WA",
      "stamp_state": "OR",
      "designation": "National Historical Park",
+     "lat": 46.21178735,
+     "lon": -123.9638583,
      "visits": []
     },
     {
@@ -3747,6 +4669,8 @@
      "state": "ID,WA",
      "stamp_state": "ID",
      "designation": "National Historic Site",
+     "lat": 42.678,
+     "lon": -114.2465,
      "visits": []
     },
     {
@@ -3755,6 +4679,8 @@
      "state": "WA",
      "stamp_state": "WA",
      "designation": "National Park",
+     "lat": 46.86075416,
+     "lon": -121.7043885,
      "visits": []
     },
     {
@@ -3763,6 +4689,8 @@
      "state": "ID,MT,OR,WA",
      "stamp_state": "ID",
      "designation": "National Historical Park",
+     "lat": 46.07019093,
+     "lon": -115.8761258,
      "visits": []
     },
     {
@@ -3771,6 +4699,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Preserve",
+     "lat": 68.01027053,
+     "lon": -159.831694,
      "visits": []
     },
     {
@@ -3779,6 +4709,8 @@
      "state": "WA",
      "stamp_state": "WA",
      "designation": "National Park",
+     "lat": 48.71171756,
+     "lon": -121.2069423,
      "visits": []
     },
     {
@@ -3787,6 +4719,8 @@
      "state": "WA",
      "stamp_state": "WA",
      "designation": "National Park",
+     "lat": 47.80392754,
+     "lon": -123.6663848,
      "visits": []
     },
     {
@@ -3795,6 +4729,8 @@
      "state": "OR",
      "stamp_state": "OR",
      "designation": "National Monument & Preserve",
+     "lat": 42.10319143,
+     "lon": -123.4018586,
      "visits": []
     },
     {
@@ -3803,6 +4739,8 @@
      "state": "ID,KS,MO,NE,OR,WA,WY",
      "stamp_state": "ID",
      "designation": "National Historic Trail",
+     "lat": 41.9876977831,
+     "lon": -109.634200841,
      "visits": []
     },
     {
@@ -3811,6 +4749,8 @@
      "state": "WA",
      "stamp_state": "WA",
      "designation": "National Historical Park",
+     "lat": 48.51241933,
+     "lon": -123.0610277,
      "visits": []
     },
     {
@@ -3819,6 +4759,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Historical Park",
+     "lat": 57.04718173,
+     "lon": -135.3156876,
      "visits": []
     },
     {
@@ -3827,6 +4769,8 @@
      "state": "WA",
      "stamp_state": "WA",
      "designation": "National Historic Site",
+     "lat": 46.04119286,
+     "lon": -118.4629388,
      "visits": []
     },
     {
@@ -3835,6 +4779,8 @@
      "state": "WA",
      "stamp_state": "WA",
      "designation": "Affiliated Area",
+     "lat": 47.59820859,
+     "lon": -122.3228912,
      "visits": []
     },
     {
@@ -3843,6 +4789,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Park & Preserve",
+     "lat": 61.4182147,
+     "lon": -142.6028439,
      "visits": []
     },
     {
@@ -3851,6 +4799,8 @@
      "state": "AK",
      "stamp_state": "AK",
      "designation": "National Preserve",
+     "lat": 65.0935608,
+     "lon": -142.7960021,
      "visits": []
     }
    ]

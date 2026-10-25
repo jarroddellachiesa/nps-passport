@@ -34,6 +34,7 @@ if __name__ == '__main__':
         if not sst: sst = next((s for s in sts if s in REGIONS[rk][2].split()), sts[0] if sts else '')
         out[rk]['units'].append({'code': code, 'name': p['fullName'],
             'state': ','.join(sts), 'stamp_state': sst, 'designation': p['designation'] or 'Affiliated Area',
+            'lat': float(p['latitude']) if p.get('latitude') else None, 'lon': float(p['longitude']) if p.get('longitude') else None,
             'visits': old.get(p['parkCode'].upper(), [])})
     json.dump({'source': 'NPS API developer.nps.gov/api/v1/parks', 'regions': out}, open(path, 'w'), indent=1, ensure_ascii=False)
     print('units:', sum(len(r['units']) for r in out.values()), {k: len(r['units']) for k, r in out.items()})

@@ -9,12 +9,12 @@ regions = json.load(open(os.path.join(STAMPS, 'parks.json')))['regions']
 img = os.path.join(SITE, 'img'); shutil.rmtree(img, ignore_errors=True); os.makedirs(img)
 W, H = 900, 1250
 def conv(src, name):
-    im = Image.open(os.path.join(STAMPS, src)).convert('RGB')
-    im.save(os.path.join(img, name + '.webp'), 'WEBP', quality=82, method=6)
+    im = Image.open(os.path.join(STAMPS, src)).convert('RGB')   # rendered at 2x (1800x2500)
+    im.save(os.path.join(img, name + '.webp'), 'WEBP', quality=80, method=6)
     im.resize((W*2//3, H*2//3), Image.LANCZOS).save(os.path.join(img, name + '.jpg'), 'JPEG', quality=84, optimize=True, progressive=True)
 conv('passport_cover.png', 'cover'); pages = [('cover', 'NPS Passport — cover')]
-for key, rk, r, items, i, n in passport.pages():
-    conv(f'passport_{key}.png', key); pages.append((key, f'{r["name"]} region stamp page'))
+for key, kind, rk, r, items, i, n in passport.pages():
+    conv(f'passport_{key}.png', key); pages.append((key, f'{r["name"]} region ' + ('map and park list' if kind == 'intro' else 'cancellation page')))
 conv('passport_back.png', 'back'); pages.append(('back', 'NPS Passport — back cover'))
 e = html.escape
 leaves = [f'<div class="leaf" style="z-index:{len(pages)-i}"><div class="front"><picture>'

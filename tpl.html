@@ -4,13 +4,17 @@
 <meta name="description" content="A virtual National Park Service passport: {{VISITED}} of {{TOTAL}} units visited.">
 <meta property="og:title" content="NPS Passport"><meta property="og:image" content="img/cover.jpg">
 <link rel="icon" href="img/cover.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,600&family=Fira+Sans:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#0c1a12;--gold:#d8b96a;--paper:#f4eedd;--ink:#22407a;--red:#c8201a}
+:root{--bg:#0b1426;--navy:#14233f;--gold:#d4ae55;--gold2:#f3dd98;--paper:#f5efdf;--ink:#2a3d62;--red:#8c1d1d;--serif:"Crimson Pro",Georgia,serif;--sans:"Fira Sans",Helvetica,Arial,sans-serif}
 *{box-sizing:border-box}html,body{margin:0}
-body{background:radial-gradient(ellipse at 50% 20%,#1f3b2c,var(--bg) 70%);color:var(--paper);font-family:Georgia,"Times New Roman",serif;min-height:100vh}
+body{background:radial-gradient(ellipse at 50% 15%,#22385f,var(--navy) 45%,var(--bg) 100%);color:var(--paper);font-family:var(--sans);min-height:100vh}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.07;background:repeating-radial-gradient(circle at 50% 30%,transparent 0 6px,#d4ae55 6px 7px)}
 header{text-align:center;padding:22px 16px 8px}
-h1{font-weight:normal;letter-spacing:.32em;font-size:clamp(15px,3.6vw,22px);color:var(--gold);margin:0}
-header p{margin:6px 0 0;opacity:.7;font-size:14px;letter-spacing:.05em}
+h1{font-family:var(--serif);font-weight:700;letter-spacing:.06em;font-size:clamp(26px,7vw,40px);margin:0;background:linear-gradient(170deg,var(--gold2),var(--gold) 40%,#9c7629 60%,var(--gold2));-webkit-background-clip:text;background-clip:text;color:transparent;text-shadow:0 1px 0 rgba(0,0,0,.2)}
+h1 em{display:block;font-size:.5em;font-weight:600;letter-spacing:.04em}
+header p{margin:8px 0 0;opacity:.8;font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold2)}
 .stage{perspective:2200px;display:flex;justify-content:center;padding:10px 12px 0}
 .book{position:relative;width:min(92vw,calc((100svh - 190px)*.72),560px);aspect-ratio:900/1250;touch-action:pan-y;user-select:none;-webkit-user-select:none;cursor:pointer}
 .leaf{position:absolute;inset:0;transform-origin:left center;transform-style:preserve-3d;transition:transform .9s cubic-bezier(.3,.1,.2,1)}
@@ -25,7 +29,7 @@ header p{margin:6px 0 0;opacity:.7;font-size:14px;letter-spacing:.05em}
 .nav .arrow:disabled{opacity:.3}
 .dot{width:9px;height:9px;border-radius:50%;border:0;padding:0;background:rgba(244,238,221,.3);cursor:pointer}
 .dot.on{background:var(--gold)}
-.fsbtn{display:flex;align-items:center;gap:7px;margin:0 auto 10px;background:#13294a;border:1px solid rgba(216,185,106,.7);color:var(--gold);font:13px Georgia,serif;letter-spacing:.12em;padding:7px 14px;border-radius:18px;cursor:pointer}
+.fsbtn{display:flex;align-items:center;gap:7px;margin:0 auto 10px;background:#13294a;border:1px solid rgba(216,185,106,.7);color:var(--gold);font:600 12px var(--sans);letter-spacing:.12em;padding:7px 14px;border-radius:18px;cursor:pointer}
 .fsbtn svg{width:14px;height:14px}
 .fsclose{display:none;position:absolute;top:max(10px,env(safe-area-inset-top));right:12px;z-index:1000;background:#13294a;border:1px solid rgba(216,185,106,.7);color:var(--gold);width:40px;height:40px;border-radius:50%;font-size:22px;cursor:pointer}
 #viewer.fs{position:fixed;inset:0;z-index:999;background:#05080f;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
@@ -36,19 +40,20 @@ header p{margin:6px 0 0;opacity:.7;font-size:14px;letter-spacing:.05em}
 html.fslock,html.fslock body{overflow:hidden}
 .hint{text-align:center;font-size:13px;opacity:.55;margin:-6px 0 10px}
 section{max-width:620px;margin:34px auto 50px;padding:0 14px}
-h2{color:var(--gold);font-weight:normal;letter-spacing:.25em;text-align:center;font-size:18px}
-table{width:100%;border-collapse:collapse;background:var(--paper);color:#1c2a40;border-radius:10px;overflow:hidden;box-shadow:0 10px 30px rgba(0,0,0,.4)}
+h2{color:var(--gold);font-family:var(--serif);font-weight:700;letter-spacing:.08em;text-align:center;font-size:28px;margin-bottom:6px}
+h2::after{content:"";display:block;width:120px;height:3px;margin:8px auto 0;border-top:2px solid var(--gold);border-bottom:1px solid var(--gold);height:2px}
+table{width:100%;border-collapse:collapse;background:var(--paper) linear-gradient(135deg,#f8f3e6,#efe5cc);color:#1f2a36;border-radius:4px;overflow:hidden;box-shadow:0 10px 30px rgba(0,0,0,.45),inset 0 0 0 1px rgba(212,174,85,.5);font-family:var(--sans)}
 td{padding:12px 14px;border-bottom:1px solid #e0d6bd;vertical-align:middle}
 td span{display:block;font-size:12px;letter-spacing:.12em;color:var(--ink);text-transform:uppercase;margin-top:3px;font-family:Helvetica,Arial,sans-serif}
-td b{font-weight:600}.rk{width:44px;text-align:center;color:#8a7a55;font-size:18px}
-.rt{text-align:right;color:var(--red);font-weight:bold;font-size:22px;white-space:nowrap;font-family:Helvetica,Arial,sans-serif}.rt small{font-size:12px;opacity:.7}
-tr:nth-child(even) td{background:#efe7d1}
-.big{text-align:center;font-size:18px}.big b{font-size:40px;color:var(--gold)}
-h3{color:var(--gold);font-weight:normal;letter-spacing:.15em;font-size:15px;margin:26px 0 10px;text-transform:uppercase}
-.reg i{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:10px;vertical-align:-1px}
+td b{font-weight:700;font-family:var(--serif);font-size:17px}.rk{width:44px;text-align:center;color:#8a7a55;font-size:18px}
+.rt{text-align:right;color:var(--ink);font-weight:bold;font-size:22px;white-space:nowrap;font-family:Helvetica,Arial,sans-serif}.rt small{font-size:12px;opacity:.7}
+tr:nth-child(even) td{background:rgba(160,130,60,.08)}td{border-bottom:1px solid rgba(42,61,98,.15)}
+.big{text-align:center;font-size:14px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold2)}.big b{display:block;font-family:var(--serif);font-size:56px;letter-spacing:0;color:var(--gold)}
+h3{color:var(--gold2);font-weight:600;letter-spacing:.2em;font-size:13px;border-bottom:1px solid rgba(212,174,85,.4);padding-bottom:6px;margin:26px 0 10px;text-transform:uppercase}
+.reg i{display:inline-block;width:22px;height:14px;border-radius:2px;box-shadow:inset 0 0 0 1px rgba(0,0,0,.2);margin-right:10px;vertical-align:-1px}
 .dt{width:110px;font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#555}td em{display:block;font-size:13px;color:#555;margin-top:3px}
 .empty{text-align:center;color:#777;font-style:italic}
-.filt{display:flex;gap:8px}.filt input{flex:1;padding:10px;border-radius:8px;border:0;font-size:15px}.filt select{border-radius:8px;border:0;padding:0 8px}
+.filt{display:flex;gap:8px}.filt input{flex:1;padding:10px;border-radius:4px;border:1px solid var(--gold);background:var(--paper);font:15px var(--sans)}.filt select{border-radius:4px;border:1px solid var(--gold);background:var(--paper);padding:0 8px;font:15px var(--sans)}
 html,body{overflow-x:hidden;max-width:100%}
 table{table-layout:fixed}td{overflow-wrap:anywhere;word-break:break-word}
 td span{white-space:normal}
@@ -57,11 +62,11 @@ td span{white-space:normal}
 @media (max-width:400px){.filt{flex-wrap:wrap}.filt select{flex:1 1 100%;max-width:none}}
 .reg td.rt{width:90px}.dt{width:96px}
 section{box-sizing:border-box;width:100%}
-.cnt{font-size:13px;opacity:.7}.st{text-align:right;font-family:Helvetica,Arial,sans-serif;font-size:13px}.st.y{color:#1d7a3a;font-weight:bold}.st.n{color:#999}
+.cnt{font-size:13px;opacity:.7}.st{text-align:right;font-family:Helvetica,Arial,sans-serif;font-size:13px}.st.y{color:#1b6b2e;font-weight:700}.st.n{color:#999}
 footer{text-align:center;font-size:12px;opacity:.45;padding-bottom:30px}
 @media (prefers-reduced-motion:reduce){.leaf{transition:none}}
 </style></head><body>
-<header><h1>NPS PASSPORT</h1><p>{{VISITED}} of {{TOTAL}} units visited · {{NREG}} regions</p></header>
+<header><h1>Passport<em>To Your National Parks</em></h1><p>{{VISITED}} of {{TOTAL}} units visited · {{NREG}} regions</p></header>
 <div id="viewer"><button class="fsclose" id="fsclose" aria-label="Exit full screen">×</button>
 <div class="stage"><div class="book" id="book">
 {{LEAVES}}

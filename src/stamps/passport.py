@@ -5,6 +5,7 @@ Usage: python3 passport.py [--pages] [--cover] [--back] [--page=REGIONKEY]   (no
 Per region: an intro page (<rk>_intro: color band, region map with park dots, numbered park list)
 followed by cancellation pages (<rk>, <rk>_2, ...; 6 spaces each, blank when no visits)."""
 import html, json, math, os, subprocess, sys, zlib, datetime, random
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); from emblems import emblem_c
 HERE = os.path.dirname(os.path.abspath(__file__)); BUILD = os.path.join(HERE, 'build')
 W, H = 900, 1250; PER = 6; SCALE = 2
 esc = lambda s: html.escape(str(s), quote=True)
@@ -364,7 +365,7 @@ def cover():
          f'<text x="465" y="250" font-family="{SERIF}" font-weight="700" font-size="104" letter-spacing="10">Passport</text>'
          f'<text x="465" y="318" font-family="{SERIF}" font-weight="600" font-style="italic" font-size="42" letter-spacing="2">To Your National Parks</text>'
          f'<rect x="300" y="350" width="330" height="2"/><rect x="300" y="356" width="330" height="1"/></g>',
-         emblem(465, 640, 165),
+         emblem_c(465, 625, 200),
          f'<g filter="url(#emboss)" fill="url(#foil)" text-anchor="middle" font-family="{SANS}">'
          f'<text x="465" y="900" font-size="20" letter-spacing="9" font-weight="600">UNITED STATES OF AMERICA</text>'
          f'<text x="465" y="1010" font-size="26" letter-spacing="7" font-weight="700">JARROD DELLACHIESA</text>'

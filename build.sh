@@ -15,7 +15,7 @@ for a in "$@"; do case "$a" in
 [[ ${#RENDER[@]} -gt 0 ]] && (cd "$STAMPS" && python3 passport.py "${RENDER[@]}")
 python3 "$SITE/gen.py"
 mkdir -p "$SITE/src/stamps"
-cp "$STAMPS"/{passport.py,make_parks.py,add_visit.py,parks.json,us-states.json} "$STAMPS"/passport_*.png "$SITE/src/stamps/"
+cp "$STAMPS"/{passport.py,emblems.py,make_parks.py,add_visit.py,parks.json,us-states.json} "$STAMPS"/passport_*.png "$SITE/src/stamps/"
 [[ $DEPLOY == 1 ]] || { echo "built (not deployed): $SITE/index.html"; exit 0; }
 cd "$SITE"; touch .nojekyll
 git add -A

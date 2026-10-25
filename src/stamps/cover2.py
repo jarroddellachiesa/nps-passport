@@ -53,24 +53,9 @@ def star(cx, cy, r):
 EAGLE = 'M100,92 L70,50 L50,20 L40,-4 L28,-2 L34,6 L18,6 L26,14 L8,16 L20,24 L0,30 L16,36 L4,46 L20,50 L22,62 L30,72 L38,80 L48,92 L58,98 L66,110 L76,114 L84,122 L86,140 L80,152 L70,164 L62,176 L74,174 L70,184 L80,186 L88,176 L100,166 L116,176 L140,192 L166,210 L176,222 L178,212 L192,220 L188,208 L204,212 L196,202 L210,200 L198,192 L206,186 L180,172 L150,150 L118,128 L122,124 L130,118 L140,114 L150,114 L156,110 L146,104 L136,100 L124,98 L112,96 Z'
 
 def art():
-    """Flag (lower-left) flowing into a ribbon road that sweeps up and right then down off the bottom; eagle above."""
-    flag_top = 'M118,1000 C210,975 300,962 420,972'
-    s = ['<g fill="url(#gold)" filter="url(#foilgrain)">']
-    # ribbon / road (drawn first, flag overlaps its start)
-    s.append('<path d="M360,1010 C520,1005 585,965 598,895 C612,815 640,760 715,748 L812,742" fill="none" stroke="url(#gold)" stroke-width="118"/>'
-             '<path d="M752,760 C790,860 760,1060 650,1262" fill="none" stroke="url(#gold)" stroke-width="118"/>')
-    # flag body with wavy top and curved right edge flowing off the bottom
-    s.append('<path d="M115,925 C220,900 300,880 380,872 C420,900 440,960 460,1020 C490,1100 530,1170 570,1250 L115,1250 Z"/>')
-    s.append('</g>')
-    # navy cut-out stars on the flag
-    s.append(f'<g fill="{NAVY2}">' + ''.join(star(x, y, 19) for x, y in
-             [(150, 960), (232, 942), (314, 925), (128, 1040), (205, 1022), (285, 1005), (365, 990), (165, 1110), (245, 1094), (330, 1080), (412, 1070), (130, 1185), (210, 1170), (292, 1158), (375, 1148), (455, 1150), (180, 1240), (262, 1232)]) + '</g>')
-    # slit in the descending ribbon (as in the classic)
-    s.append(f'<path d="M806,930 C804,968 798,1000 788,1036 L779,1033 C788,998 794,966 796,930 Z" fill="{NAVY2}"/>')
-    # eagle: wings raised, gliding right/down, over the ribbon
-    s.append(f'<g fill="url(#gold)" filter="url(#foilgrain)" transform="translate(130,500) scale(1.85)"><path d="{EAGLE}" stroke="{NAVY2}" stroke-width="2.6" paint-order="stroke"/></g>')
-    s.append(f'<circle cx="{130+141*1.85:.1f}" cy="{500+106*1.85:.1f}" r="2.4" fill="{NAVY2}"/>')
-    return ''.join(s)
+    import eagleflag as ef
+    return ('<g fill="url(#gold)" filter="url(#foilgrain)">' + ef.flag() + ef.banner() + '</g>'
+            + '<g fill="url(#gold)" filter="url(#foilgrain)">' + ef.eagle(80, 470, 1.32) + '</g>')
 
 def title():
     return (f'<g fill="url(#gold)" filter="url(#foilgrain)">'
